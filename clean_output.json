@@ -1,0 +1,3398 @@
+[
+  {
+    "item no.": "0.1",
+    "item": "name of the State/UT:",
+    "Remarks": "Auto populated from sample list."
+  },
+  {
+    "item no.": "0.2",
+    "item": "name of the district:"
+  },
+  {
+    "item no.": "0.3",
+    "item": "name of the sub-district or tehsil"
+  },
+  {
+    "item no.": "0.4",
+    "item": "name of the village/town:"
+  },
+  {
+    "item no.": "0.5",
+    "item": "specify investigator unit no.:"
+  },
+  {
+    "item no.": "0.6",
+    "item": "specify block no.:"
+  },
+  {
+    "item no.": "0.7",
+    "item": "specify SU no.:",
+    "code/number": "Identified after Sub unit formation in section 4.2"
+  },
+  {
+    "item no.": "1.1",
+    "item": "serial number of sample FSU:",
+    "Remarks": "Auto populated from sample list"
+  },
+  {
+    "item no.": "1.2",
+    "item": "starting year of survey:",
+    "code/number": "2"
+  },
+  {
+    "item no.": "1.3",
+    "item": "questionnaire number",
+    "code/number": "LCES2023"
+  },
+  {
+    "item no.": "1.4",
+    "item": "sector (rural-1, urban-2)",
+    "Remarks": "Auto populated from sample list"
+  },
+  {
+    "item no.": "1.5",
+    "item": "NSS region code"
+  },
+  {
+    "item no.": "1.6",
+    "item": "district code"
+  },
+  {
+    "item no.": "1.7",
+    "item": "stratum number"
+  },
+  {
+    "item no.": "1.8",
+    "item": "sub-stratum number"
+  },
+  {
+    "item no.": "1.9",
+    "item": "Panel no"
+  },
+  {
+    "item no.": "1.10",
+    "item": "Sub-sample no"
+  },
+  {
+    "item no.": "1.11",
+    "item": "FOD sub-region code"
+  },
+  {
+    "item no.": "1.12",
+    "item": "frame code"
+  },
+  {
+    "item no.": "1.13",
+    "item": "population of village or number of households of UFS block:"
+  },
+  {
+    "item no.": "1.14",
+    "item": "approximate present population of the entire village/ UFS block (in which the SU is located ):",
+    "Remarks": "To be ascertained in the field."
+  },
+  {
+    "item no.": "1.15",
+    "item": "total number of SUs to be formed (D)",
+    "Remarks": "Auto populated from sample list"
+  },
+  {
+    "item no.": "1.16",
+    "item": "approximate present population of selected SU",
+    "Remarks": "To be ascertained in the field after identification of selected sub-unit."
+  },
+  {
+    "item no.": "1.17",
+    "item": "number of Sub-divisions of SU to be formed (D ) 1",
+    "Remarks": "If no Sub-division will be formed then 1 will be recorded here."
+  },
+  {
+    "item no.": "Please choose the appropriate alternative for the following :"
+  },
+  {
+    "1.18": "1.19",
+    "survey code:\nif selected FSU surveyed:\ninhabited – 1\nuninhabited – 2\nzero case – 3\noriginally selected FSU not surveyed but substitute FSU surveyed:\ninhabited – 4\nuninhabited – 5\nzero case – 6\nselected FSU casualty – 7": "reason for substitution of original sample (code) (for codes 4-7 in item 1.18): not identifiable/traceable – 1 not accessible – 2 restricted area (not permitted to survey) – 3 others (specify) – 9"
+  },
+  {
+    "item no.": "2.1",
+    "i t e m": "2.1.1 name of Junior Statistical Officer (JSO)/ Survey enumerator (SE) (in block letters)"
+  },
+  {
+    "i t e m": "2.1.2 employee code of JSO/SE"
+  },
+  {
+    "item no.": "2.2",
+    "i t e m": "2.2.1 name of Junior Statistical Officer (JSO)/ Survey Enumerator (SE) (in block letters)"
+  },
+  {
+    "i t e m": "2.2.2 employee code of JSO/SE"
+  },
+  {
+    "item no.": "2.3",
+    "i t e m": "2.3.1 name of Senior Statistical Officer (SSO)/ Survey supervisor (SS) (in block letters)"
+  },
+  {
+    "i t e m": "2.3.2 employee code of SSO/SS"
+  },
+  {
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.2 commencement of inspection (to be filled by SSO/SS)"
+  },
+  {
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.3 completion of survey (to be filled by JSO/SE)"
+  },
+  {
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.4 completion of inspection (to be filled by SSO/SS)"
+  },
+  {
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.5 receipt (to be filled by SSO/SS)"
+  },
+  {
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.6 scrutiny (to be filled by SSO/SS)"
+  },
+  {
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.7 despatch (to be filled by SSO/SS)"
+  },
+  {
+    "2.4\n( in the format\nDD MM YY)": "2.5",
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "total time taken to canvass the questionnaire by the team of enumerators (to be filled by JSO/SE)"
+  },
+  {
+    "(in hours) [no decimal point]": "whether any remark has been entered by JSO/SE (yes-1, no-2)"
+  },
+  {
+    "(in hours) [no decimal point]": "whether any remark has been entered by supervisory officer (yes-1, no-2)"
+  },
+  {
+    "serial number": "(1)",
+    "name of hamlet": "(2)",
+    "percentage of population of\neach hamlet": "(3)",
+    "Remarks": "running serial number for the hamlets to be given in col .1. % of total pop. for hamlets reported in col 3 should add up to 100."
+  },
+  {
+    "serial number": "Total",
+    "percentage of population of\neach hamlet": "100"
+  },
+  {
+    "D=": "serial number of SU"
+  },
+  {
+    "D=": "(1)"
+  },
+  {
+    "D=": "Total"
+  },
+  {
+    "SU no.= D = R=\n1": "serial no. of Sub-division"
+  },
+  {
+    "SU no.= D = R=\n1": "(1)"
+  },
+  {
+    "SU no.= D = R=\n1": "Total"
+  },
+  {
+    "item no.": "5.1",
+    "item": "house number: [census/ municipality/ local body/ panchayat house number if available; running serial number within bracket otherwise]"
+  },
+  {
+    "item no.": "5.2",
+    "item": "is the house used only for non-residential purposes? (Yes – 1, No – 2) If Yes, Go to item 5.1 of next row"
+  },
+  {
+    "item no.": "5.3",
+    "item": "household serial number: [only for houses/ structures used for residential purposes (Starting serial no is 1. Then continuous numbering without omission and duplication for each household listed)."
+  },
+  {
+    "item no.": "5.4",
+    "item": "name of head of the household"
+  },
+  {
+    "item no.": "5.5",
+    "item": "household size"
+  },
+  {
+    "item no.": "5.6",
+    "item": "area of land possessed (lp) in acre : (for rural only) [1 acre=0.405 hectare, 1 hectare=2.471 acre ]"
+  },
+  {
+    "item no.": "5.7",
+    "item": "Whether the household owns one or more four wheeler cars for non-commercial use? (for urban only) (Yes=1, No=2)"
+  },
+  {
+    "item no.": "5.8",
+    "item": "If 1 in item 5.7 then total purchase value of four wheeler cars (code) [value of car > 10 lakh=1 value of car ≤10 lakh=2]"
+  },
+  {
+    "item no.": "5.9",
+    "item": "Compute: SSS number"
+  },
+  {
+    "item no.": "5.10",
+    "item": "mobile number of head of the household"
+  },
+  {
+    "item no.": "5.11",
+    "item": "mobile number of any other member of the household"
+  },
+  {
+    "item no.": "5.12",
+    "item": "land line number of the household"
+  },
+  {
+    "item no.": "GO TO NEXT ROW"
+  },
+  {
+    "number of households": "listed (H)"
+  },
+  {
+    "questionnaire": "(1)",
+    "population": "(2)",
+    "second\nstage\nstratum\n(SSS)": "(3)",
+    "number of households": "(4)"
+  },
+  {
+    "questionnaire": "HCQ",
+    "second\nstage\nstratum\n(SSS)": "1"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "2"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "3"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "all (9)"
+  },
+  {
+    "questionnaire": "FDQ",
+    "second\nstage\nstratum\n(SSS)": "1"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "2"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "3"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "all (9)"
+  },
+  {
+    "questionnaire": "CSQ",
+    "second\nstage\nstratum\n(SSS)": "1"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "2"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "3"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "all (9)"
+  },
+  {
+    "questionnaire": "DGQ",
+    "second\nstage\nstratum\n(SSS)": "1"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "2"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "3"
+  },
+  {
+    "second\nstage\nstratum\n(SSS)": "all (9)"
+  },
+  {
+    "o rural": "o urban"
+  },
+  {
+    "o original -1,": "o substitute -2,"
+  },
+  {
+    "o original -1,": "o casualty -3"
+  },
+  {
+    "o informant busy -1,": "o members away from home -2,"
+  },
+  {
+    "o informant busy -1,": "o informant non-cooperative -3,"
+  },
+  {
+    "o informant busy -1,": "o others -9"
+  },
+  {
+    "Q2.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed below]": "List the names of the household members"
+  },
+  {
+    "Q2.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed below]": "serial number"
+  },
+  {
+    "Q2.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed below]": "[Instruction:  All the members of the sample household will be listed using a continuous serial number starting with 1.  The head of the household will appear first followed by head's spouse, the first son, first son's wife and their children, second son, second son's wife and their children and so on. After the sons are enumerated, the daughters will be listed followed by other relations, dependants, servants, etc.  Include paying guests domestic servants, other relations and non-relations who are normally living together for six months or more or are expected to stay for six months or more and taking food from a common kitchen.  Include temporary stay-aways(i.e., persons whose total period of absence from the household is expected to be less than 6 months).  Exclude temporary visitors and guests (whose expected total period of stay in the household less than 6 months). Go to Section 3"
+  },
+  {
+    "Section 3: demographic and other particulars of household members": "o. n rl. s"
+  },
+  {
+    "Section 3: demographic and other particulars of household members": "(1)"
+  },
+  {
+    "Section 3: demographic and other particulars of household members": "Instruction: Codes for Section 3  Col. (3) : relation to head: self-1, spouse of head-2, married child-3, spouse of married child-4, unmarried child-5, grandchild-6, father/mother/father-in-law/mother-in-law-7, brother/sister/brother-in-law/sister-in- law/other relatives-8, servants/employees/other non-relatives-9  Col.(6) : marital status: never married – 1, currently married – 2, widowed – 3, divorced/separated – 4  Col. (7): highest educational level attained: o not literate (i.e. not able to read or write a simple message with understanding in any language) -01 o literate with non-formal education (like NFEC, AEC, TLC, literate without any schooling, etc.)-02 literate with formal education o below primary-03 o primary -04 o upper primary/middle -05 o secondary -06 o higher secondary -07 o diploma /certificate course (up to secondary)-08 o diploma/certificate course (higher secondary)-10 o diploma/certificate course(graduation & above)-11 o graduate -12 o post graduate and above -13 *applicable for persons of age >=3 years (i.e., Col. 5>=3) Note: Information on Col. 10 – 16 is to be collected while canvassing the Questionnaire FDQ."
+  },
+  {
+    "Section4: Household characteristics": "Question no."
+  },
+  {
+    "Section4: Household characteristics": "Q4.1"
+  },
+  {
+    "Section4: Household characteristics": "Q4.2"
+  },
+  {
+    "Section4: Household characteristics": "Q4.3"
+  },
+  {
+    "Section4: Household characteristics": "Q4.4"
+  },
+  {
+    "Section4: Household characteristics": "Q4.5"
+  },
+  {
+    "Section4: Household characteristics": "Question no."
+  },
+  {
+    "Section4: Household characteristics": "Q4.6"
+  },
+  {
+    "Section4: Household characteristics": "Q4.7"
+  },
+  {
+    "Section4: Household characteristics": "Q4.8"
+  },
+  {
+    "Section4: Household characteristics": "Q4.9"
+  },
+  {
+    "Section4: Household characteristics": "Q4.10"
+  },
+  {
+    "Section4: Household characteristics": "Q4.11"
+  },
+  {
+    "Section4: Household characteristics": "Q4.12"
+  },
+  {
+    "Section4: Household characteristics": "Question no."
+  },
+  {
+    "Section4: Household characteristics": "Q4.13"
+  },
+  {
+    "Section4: Household characteristics": "Q4.14"
+  },
+  {
+    "Section4: Household characteristics": "Q4.15"
+  },
+  {
+    "Section4: Household characteristics": "Q4.16"
+  },
+  {
+    "Section4: Household characteristics": "Q4.17"
+  },
+  {
+    "Section4: Household characteristics": "Q4.21"
+  },
+  {
+    "Section4: Household characteristics": "Question no."
+  },
+  {
+    "Section4: Household characteristics": "Q4.22"
+  },
+  {
+    "Section4: Household characteristics": "Q4.29"
+  },
+  {
+    "Section4: Household characteristics": "Q4.30"
+  },
+  {
+    "Section4: Household characteristics": "Q4.31"
+  },
+  {
+    "Section4: Household characteristics": " Go to Section 1.1"
+  },
+  {
+    "o yes-1": "o no-2"
+  },
+  {
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": "List the names of the household members"
+  },
+  {
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": "serial number"
+  },
+  {
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": "will be auto generated based on the household members listed against Section 3A"
+  },
+  {
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": " Go to Section 3A"
+  },
+  {
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "o. n rl. s"
+  },
+  {
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "(1)"
+  },
+  {
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "In part 3A.1 the serial number will be same as that of the last visit (this will be auto-populated from the information collected during the first visit)"
+  },
+  {
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "Section 3A.2: demographic and other particulars of the new household members"
+  },
+  {
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "In part 3A.2 the serial number will be continuous from Section 3A.1"
+  },
+  {
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "Instruction: Codes for Section 3A.1/3A.2  Col. (3) : relation to head: self-1, spouse of head-2, married child-3, spouse of married child-4, unmarried child- 5, grandchild-6, father/mother/father-in-law/mother-in-law-7, brother/sister/brother-in-law/sister-in-law/other"
+  },
+  {
+    "1.1.2. alternate mobile number, if any": "(Instruction: alternate mobile number will be of the informant, if any, otherwise any other member of the household)"
+  },
+  {
+    "1.1.3. landline number of the household": "(STD code without zero followed by land line number will be recorded)"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  },
+  {
+    "o informant co-operative and capable-1": "o informant co-operative but not"
+  },
+  {
+    "o informant co-operative and capable-1": "capable-2"
+  },
+  {
+    "o informant co-operative and capable-1": "o informant busy-3"
+  },
+  {
+    "o informant co-operative and capable-1": "o informant reluctant-4"
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Question no."
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Q4.1.1"
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Q4.1.2"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": "(3)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Rice"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Wheat"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "Coarse Grain"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Sugar"
+  },
+  {
+    "S. No.": "5.",
+    "item category": "Pulses"
+  },
+  {
+    "S. No.": "6.",
+    "item category": "Edible oil"
+  },
+  {
+    "S. No.": "7.",
+    "item category": "Other food items (including salt, gram, etc.)"
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Question no."
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Q4.1.3"
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Q4.1.4"
+  },
+  {
+    "Section4.1: General information onpurchase/payment": "Q4.1.5"
+  },
+  {
+    "Section4.1: General information onpurchase/payment": " Go to Section 5"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "reference\nperiod\n(in days)": "(3)",
+    "please select the check box if\npurchased online during the\nreference period": "(4)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Groceries (cereals, pulses & its products, edible oil, sugar& salt, spices, beverages, etc.)",
+    "reference\nperiod\n(in days)": "30"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Milk & its products",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "Vegetables",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Fruits (fresh)",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "5.",
+    "item category": "Fruits (dry)",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "6.",
+    "item category": "Egg, fish & meat",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "7.",
+    "item category": "Served processed food (meals, snacks, drinks, etc.)",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "8.",
+    "item category": "Packed processed food",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "S. No.": "9.",
+    "item category": "Other food items",
+    "reference\nperiod\n(in days)": "7"
+  },
+  {
+    "Section5.1:Consumption of cereals during the last 30 days": "Question no."
+  },
+  {
+    "Section5.1:Consumption of cereals during the last 30 days": "Q5.1"
+  },
+  {
+    "quantity and value of the item consumed during last 30 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 30 days": "quantity* (0.000)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 30 days": "(3)"
+  },
+  {
+    "Item": "rice-free$",
+    "item\ncode": "061"
+  },
+  {
+    "Item": "wheat/atta- free$",
+    "item\ncode": "062"
+  },
+  {
+    "Item": "coarse grains&- free$ (jowar, bajra, maize, barley, ragi, small millets)",
+    "item\ncode": "070"
+  },
+  {
+    "Item": "rice – PDS",
+    "item\ncode": "101"
+  },
+  {
+    "Item": "rice – other sources",
+    "item\ncode": "102"
+  },
+  {
+    "Item": "chira",
+    "item\ncode": "103"
+  },
+  {
+    "Item": "muri",
+    "item\ncode": "105"
+  },
+  {
+    "Item": "other rice products (khoi/lawa,etc.)",
+    "item\ncode": "106"
+  },
+  {
+    "Item": "wheat/ atta – PDS",
+    "item\ncode": "107"
+  },
+  {
+    "Item": "wheat/ atta – other sources",
+    "item\ncode": "108"
+  },
+  {
+    "Item": "maida",
+    "item\ncode": "110"
+  },
+  {
+    "Item": "suji, rawa",
+    "item\ncode": "111"
+  },
+  {
+    "Item": "vermicelli (sewai)",
+    "item\ncode": "112"
+  },
+  {
+    "Item": "other wheat products",
+    "item\ncode": "114"
+  },
+  {
+    "Item": "coarse grains-PDS& (jowar, bajra, maize, barley, ragi, small millets)",
+    "item\ncode": "001"
+  },
+  {
+    "Item": "coarse grains-other sources&(jowar, bajra, maize, barley, ragi, small millets & its products)",
+    "item\ncode": "002"
+  },
+  {
+    "Item": "other cereals& products",
+    "item\ncode": "122"
+  },
+  {
+    "Item": "cereal: sub-total",
+    "item\ncode": "129"
+  },
+  {
+    "Item": "cereal substitutes: tapioca, etc.",
+    "item\ncode": "139"
+  },
+  {
+    "Section 5.2: Consumption of pulses during the last 30 days": "Question no."
+  },
+  {
+    "Section 5.2: Consumption of pulses during the last 30 days": "Q5.2"
+  },
+  {
+    "quantity and value of the item consumed during last 30 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 30 days": "quantity* (0.000)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 30 days": "(3)"
+  },
+  {
+    "Item": "arhar, tur",
+    "item\ncode": "140"
+  },
+  {
+    "Item": "moong",
+    "item\ncode": "143"
+  },
+  {
+    "Item": "masur",
+    "item\ncode": "144"
+  },
+  {
+    "Item": "urd",
+    "item\ncode": "145"
+  },
+  {
+    "Item": "gram: split",
+    "item\ncode": "141"
+  },
+  {
+    "Item": "gram: whole",
+    "item\ncode": "142"
+  },
+  {
+    "Item": "peas, chickpeas",
+    "item\ncode": "146"
+  },
+  {
+    "Item": "other pulses (khesari, etc.)",
+    "item\ncode": "148"
+  },
+  {
+    "Item": "besan, gram products",
+    "item\ncode": "150"
+  },
+  {
+    "Item": "pulses - PDS",
+    "item\ncode": "158"
+  },
+  {
+    "Item": "other pulse products (soya chunks, etc.)",
+    "item\ncode": "152"
+  },
+  {
+    "Item": "pulses –free$",
+    "item\ncode": "071"
+  },
+  {
+    "Item": "gram- free$",
+    "item\ncode": "072"
+  },
+  {
+    "Item": "pulses & pulse products: sub-total",
+    "item\ncode": "159"
+  },
+  {
+    "Section 5.3: Consumption of sugar & salt during the last 30 days": "Question no."
+  },
+  {
+    "Section 5.3: Consumption of sugar & salt during the last 30 days": "Q5.3"
+  },
+  {
+    "Section 5.3: Consumption of sugar & salt during the last 30 days": "Go to Section 6"
+  },
+  {
+    "quantity and value of the item consumed during last 30 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 30 days": "quantity* (0.000)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 30 days": "(3)"
+  },
+  {
+    "Item": "salt –free$",
+    "item\ncode": "073"
+  },
+  {
+    "Item": "sugar- free$",
+    "item\ncode": "074"
+  },
+  {
+    "Item": "salt - PDS",
+    "item\ncode": "178"
+  },
+  {
+    "Item": "salt – other sources",
+    "item\ncode": "170"
+  },
+  {
+    "Item": "sugar –PDS",
+    "item\ncode": "171"
+  },
+  {
+    "Item": "sugar – other sources",
+    "item\ncode": "172"
+  },
+  {
+    "Item": "jaggery (gur)",
+    "item\ncode": "173"
+  },
+  {
+    "Item": "candy, misri",
+    "item\ncode": "174"
+  },
+  {
+    "Item": "honey",
+    "item\ncode": "175"
+  },
+  {
+    "Item": "salt & sugar: sub-total",
+    "item\ncode": "179"
+  },
+  {
+    "Section 6.1 :Consumption of milk & milk productsduring the last 7 days": "Question no."
+  },
+  {
+    "Section 6.1 :Consumption of milk & milk productsduring the last 7 days": "Q6.1"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "Item": "milk: liquid (litre)",
+    "item\ncode": "160"
+  },
+  {
+    "Item": "milk: condensed/ powder",
+    "item\ncode": "162"
+  },
+  {
+    "Item": "ghee",
+    "item\ncode": "164"
+  },
+  {
+    "Item": "curd, yogurt",
+    "item\ncode": "163"
+  },
+  {
+    "Item": "butter",
+    "item\ncode": "165"
+  },
+  {
+    "Item": "ice-cream",
+    "item\ncode": "166"
+  },
+  {
+    "Item": "paneer",
+    "item\ncode": "003"
+  },
+  {
+    "Item": "prepared sweets",
+    "item\ncode": "004"
+  },
+  {
+    "Item": "cheese (gm)",
+    "item\ncode": "005"
+  },
+  {
+    "Item": "other milk products& (lassi, butter milk, others)",
+    "item\ncode": "092"
+  },
+  {
+    "Item": "milk & milk products: sub-total",
+    "item\ncode": "169"
+  },
+  {
+    "Section 6.2: Consumption of vegetables during the last 7 days": "Question no."
+  },
+  {
+    "Section 6.2: Consumption of vegetables during the last 7 days": "Q6.2"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item code": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "onion",
+    "item code": "201"
+  },
+  {
+    "item": "potato",
+    "item code": "200"
+  },
+  {
+    "item": "tomato",
+    "item code": "202"
+  },
+  {
+    "item": "palak/other leafy vegetables",
+    "item code": "206"
+  },
+  {
+    "item": "brinjal",
+    "item code": "203"
+  },
+  {
+    "item": "lady's finger",
+    "item code": "208"
+  },
+  {
+    "item": "green chillies",
+    "item code": "207"
+  },
+  {
+    "item": "cauliflower",
+    "item code": "211"
+  },
+  {
+    "item": "gourd, pumpkin",
+    "item code": "213"
+  },
+  {
+    "item": "cabbage",
+    "item code": "212"
+  },
+  {
+    "item": "parwal/patal, kundru",
+    "item code": "210"
+  },
+  {
+    "item": "beans, barbati",
+    "item code": "215"
+  },
+  {
+    "item": "Peas",
+    "item code": "214"
+  },
+  {
+    "item": "carrot",
+    "item code": "205"
+  },
+  {
+    "item": "radish",
+    "item code": "204"
+  },
+  {
+    "item": "lemon (no.)",
+    "item code": "216"
+  },
+  {
+    "item": "other vegetables",
+    "item code": "217"
+  },
+  {
+    "item": "vegetables: sub- total",
+    "item code": "219"
+  },
+  {
+    "Section 6.3: Consumption of fruits (fresh) during the last 7 days": "Question no."
+  },
+  {
+    "Section 6.3: Consumption of fruits (fresh) during the last 7 days": "Q6.3"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "banana (no.)",
+    "item\ncode": "220"
+  },
+  {
+    "item": "apple",
+    "item\ncode": "236"
+  },
+  {
+    "item": "coconut (no.)",
+    "item\ncode": "224"
+  },
+  {
+    "item": "mango",
+    "item\ncode": "231"
+  },
+  {
+    "item": "grapes",
+    "item\ncode": "237"
+  },
+  {
+    "item": "green coconut (no.)",
+    "item\ncode": "225"
+  },
+  {
+    "item": "guava",
+    "item\ncode": "226"
+  },
+  {
+    "item": "papaya",
+    "item\ncode": "230"
+  },
+  {
+    "item": "orange, sweet lime(mausami) (no.)",
+    "item\ncode": "228"
+  },
+  {
+    "item": "watermelon",
+    "item\ncode": "222"
+  },
+  {
+    "item": "kharbooza",
+    "item\ncode": "232"
+  },
+  {
+    "item": "other fresh fruits& (litchi, pears/nashpati, singara, jackfruit, berries, pineapple, others)",
+    "item\ncode": "093"
+  },
+  {
+    "item": "fruits (fresh): sub- total",
+    "item\ncode": "239"
+  },
+  {
+    "Section 6.4: Consumption of fruits (dry) during the last 7 days": "Question no."
+  },
+  {
+    "Section 6.4: Consumption of fruits (dry) during the last 7 days": "Q6.4"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "coconut: copra",
+    "item\ncode": "240"
+  },
+  {
+    "item": "groundnut",
+    "item\ncode": "241"
+  },
+  {
+    "item": "cashew nut",
+    "item\ncode": "243"
+  },
+  {
+    "item": "dates",
+    "item\ncode": "242"
+  },
+  {
+    "item": "other nuts (almond, pistachio, walnut, hazelnut, etc.)",
+    "item\ncode": "245"
+  },
+  {
+    "item": "raisin(kishmish), monacca, etc.",
+    "item\ncode": "246"
+  },
+  {
+    "item": "other dry fruits& (apricot, dry fig:anjeer, others)",
+    "item\ncode": "094"
+  },
+  {
+    "item": "fruits (dry): sub-total",
+    "item\ncode": "249"
+  },
+  {
+    "Section 6.5: Consumption of egg, fish & meat during the last 7 days": "Question no."
+  },
+  {
+    "Section 6.5: Consumption of egg, fish & meat during the last 7 days": "Q6.5"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "eggs (no.)",
+    "item\ncode": "190"
+  },
+  {
+    "item": "chicken",
+    "item\ncode": "195"
+  },
+  {
+    "item": "fish, prawn",
+    "item\ncode": "191"
+  },
+  {
+    "item": "goat meat/ mutton",
+    "item\ncode": "192"
+  },
+  {
+    "item": "beef/ buffalo meat",
+    "item\ncode": "193"
+  },
+  {
+    "item": "pork",
+    "item\ncode": "194"
+  },
+  {
+    "item": "others: birds, crab, oyster, etc.",
+    "item\ncode": "196"
+  },
+  {
+    "item": "egg, fish &meat: sub-total",
+    "item\ncode": "199"
+  },
+  {
+    "Section 6.6: Consumption of edible oilduring the last 7 days": "Question no."
+  },
+  {
+    "Section 6.6: Consumption of edible oilduring the last 7 days": "Q6.6"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "mustard oil",
+    "item\ncode": "181"
+  },
+  {
+    "item": "refined oil [sunflower, soyabean, palm oil, vegetable oil, etc.]",
+    "item\ncode": "184"
+  },
+  {
+    "item": "groundnut oil",
+    "item\ncode": "182"
+  },
+  {
+    "item": "coconut oil",
+    "item\ncode": "183"
+  },
+  {
+    "item": "edible oil - PDS",
+    "item\ncode": "188"
+  },
+  {
+    "item": "edible oil: others& (vanaspati, margarine, others)",
+    "item\ncode": "095"
+  },
+  {
+    "item": "edible oil- free$",
+    "item\ncode": "075"
+  },
+  {
+    "item": "edible oil: sub-total",
+    "item\ncode": "189"
+  },
+  {
+    "Section 6.7: Consumption of spices during the last 7 days": "Question no."
+  },
+  {
+    "Section 6.7: Consumption of spices during the last 7 days": "Q 6.7"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "dry chillies (gm)",
+    "item\ncode": "256"
+  },
+  {
+    "item": "turmeric (gm)",
+    "item\ncode": "254"
+  },
+  {
+    "item": "cumin (jeera (gm))",
+    "item\ncode": "252"
+  },
+  {
+    "item": "coriander (dhania (gm))",
+    "item\ncode": "253"
+  },
+  {
+    "item": "garlic (gm)",
+    "item\ncode": "251"
+  },
+  {
+    "item": "ginger (gm)",
+    "item\ncode": "250"
+  },
+  {
+    "item": "curry powder (gm)",
+    "item\ncode": "258"
+  },
+  {
+    "item": "black pepper (gm)",
+    "item\ncode": "255"
+  },
+  {
+    "item": "tamarind (gm)",
+    "item\ncode": "257"
+  },
+  {
+    "item": "oilseeds (gm)",
+    "item\ncode": "260"
+  },
+  {
+    "item": "poppy seeds (gm)",
+    "item\ncode": "263"
+  },
+  {
+    "item": "other spices (gm)",
+    "item\ncode": "261"
+  },
+  {
+    "item": "spices: sub-total",
+    "item\ncode": "269"
+  },
+  {
+    "Section 6.8: Consumption of beverages during the last 7 days": "Question no."
+  },
+  {
+    "Section 6.8: Consumption of beverages during the last 7 days": "Q6.8"
+  },
+  {
+    "Section 6.8: Consumption of beverages during the last 7 days": "Go to Section 7"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "item": "tea: cups (no.)",
+    "item\ncode": "270"
+  },
+  {
+    "item": "tea: leaf (gm)",
+    "item\ncode": "271"
+  },
+  {
+    "item": "coffee: cups (no.)",
+    "item\ncode": "272"
+  },
+  {
+    "item": "coffee: powder (gm)",
+    "item\ncode": "273"
+  },
+  {
+    "item": "mineral water (litre)",
+    "item\ncode": "274"
+  },
+  {
+    "item": "soda drinks (litre)",
+    "item\ncode": "011"
+  },
+  {
+    "item": "other cold beverages: bottled/canned (litre)",
+    "item\ncode": "275"
+  },
+  {
+    "item": "fruit juice and shake, sugarcane/ date-palm juice, etc.",
+    "item\ncode": "276"
+  },
+  {
+    "item": "other beverages: cocoa, drinking chocolate, health drinks, etc.",
+    "item\ncode": "278"
+  },
+  {
+    "item": "beverages: sub-total",
+    "item\ncode": "279"
+  },
+  {
+    "Section 7.1: Consumption of served processed food during the last 7 days": "Question no."
+  },
+  {
+    "Section 7.1: Consumption of served processed food during the last 7 days": "Q7.1"
+  },
+  {
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": "total consumption"
+  },
+  {
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": "quantity (0.000)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": "(3)"
+  },
+  {
+    "Item": "cooked meals purchased at subsidized rate (no.)",
+    "item\ncode": "076"
+  },
+  {
+    "Item": "cooked meals purchased (no.)",
+    "item\ncode": "280"
+  },
+  {
+    "Item": "cooked meals received free in workplace$ (no.)",
+    "item\ncode": "281"
+  },
+  {
+    "Item": "cooked meals received as assistance$(no.)",
+    "item\ncode": "282"
+  },
+  {
+    "Item": "cooked snacks purchased [samosa, puri, paratha, momo, roll, chowmein, idli, dosa, vada, chops, pakoras, pav-bhaji, vada-pao, etc.]",
+    "item\ncode": "283"
+  },
+  {
+    "Item": "other served processed food**",
+    "item\ncode": "284"
+  },
+  {
+    "Item": "served processed food: sub-total",
+    "item\ncode": "289"
+  },
+  {
+    "Section 7.2: Consumption of packaged processed food during the last 7 days": "Question no."
+  },
+  {
+    "Section 7.2: Consumption of packaged processed food during the last 7 days": "Q7.2"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "total consumption"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "quantity (0.000)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)"
+  },
+  {
+    "Item": "breakfast cereals (oats, cornflakes, muesli etc.)",
+    "item\ncode": "012"
+  },
+  {
+    "Item": "baby food",
+    "item\ncode": "161"
+  },
+  {
+    "Item": "cake, pastry",
+    "item\ncode": "290"
+  },
+  {
+    "Item": "Biscuits",
+    "item\ncode": "013"
+  },
+  {
+    "Item": "chocolates, etc.",
+    "item\ncode": "291"
+  },
+  {
+    "Item": "papad, bhujia, namkeen, mixture, chanachur",
+    "item\ncode": "292"
+  },
+  {
+    "Item": "chips , nachos, puffs, wafers, etc.",
+    "item\ncode": "293"
+  },
+  {
+    "Item": "pickles",
+    "item\ncode": "294"
+  },
+  {
+    "Item": "sauce, jam, jelly, mayonnaise (gm)",
+    "item\ncode": "295"
+  },
+  {
+    "Item": "bread (bakery)",
+    "item\ncode": "113"
+  },
+  {
+    "Item": "health supplements (protein powder, probiotic tablet and drinks, chawanprash, etc.)",
+    "item\ncode": "014"
+  },
+  {
+    "Item": "noodles (cup noodles, rice noodles, etc.)",
+    "item\ncode": "015"
+  },
+  {
+    "Item": "other packaged processed food (poha, other ready to eat meal, etc.)",
+    "item\ncode": "296"
+  },
+  {
+    "Item": "packaged processed food: sub-total",
+    "item\ncode": "299"
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "S. No."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "(1)"
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "1."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "2."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "3."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "4."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "5."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "6."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "7."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "8."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "9."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "10."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "11."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "12."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "13."
+  },
+  {
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "14."
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "QA2.1": "QA2.2",
+    "Mobile number of the informant": "Alternate mobile number, if any"
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "QA2.1": "QA2.3",
+    "Mobile number of the informant": "Landline number of the household"
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "QA2.1": "QA2.4",
+    "Mobile number of the informant": "Time taken to canvass the Questionnaire – FDQ(in minutes)"
+  },
+  {
+    "QA2.1": "QA2.5",
+    "Mobile number of the informant": "Household’s usual consumption expenditure in a month (in Rs.) (to be used only for cross validation of the data)"
+  },
+  {
+    "QA2.1": "QA2.6",
+    "Mobile number of the informant": "Total expenditure incurred on online purchase/payment offood itemsduring the last 30 days (in Rs.)"
+  },
+  {
+    "QA2.1": "QA2.7",
+    "Mobile number of the informant": "Name of the informant (Instruction: A pop-up with the details of household members as listed in Block 3/3A, Cols.1 & 2 will appear along with an option ‘not a household member’. ‘Srl. no .99 will be provided against non- household member’, if he/she is the respondent. The enumerator should select the ‘informant’ from that list) Srl. no. of the household Name Select the informant member o o 99 not a household member o"
+  },
+  {
+    "QA2.1": "QA2.8",
+    "Mobile number of the informant": "Response code of the informant as assessed by SE/JSO"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Question no."
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.0"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.1"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.2"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.3"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Question no."
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.4"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.6"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.7"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.8"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.9"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": "Q4.2.10"
+  },
+  {
+    "Section 4.2: General information on purchase/payment": " Go to Section 8"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check\nbox if received free of\ncost during last 365 days": "(3)",
+    "total no. of item\nreceived free of cost\n(number)": "(4)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Textbooks"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Stationary (geometry box, pen, notepad, etc.)"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "School bag"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Other, if any"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": "(3)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Fuel & light"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Toilet articles& other household consumables"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "Education"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Medicine&other medical services"
+  },
+  {
+    "S. No.": "5.",
+    "item category": "Services (Travel, Recharges, Bill payment, Cinema/Theatre, internet, etc.)"
+  },
+  {
+    "Section 8.1: Consumption of energy (fuel &light) during the last 30 days": "Question no."
+  },
+  {
+    "Section 8.1: Consumption of energy (fuel &light) during the last 30 days": "Q8.1"
+  },
+  {
+    "Section 8.1: Consumption of energy (fuel &light) during the last 30 days": "Go to Section 9"
+  },
+  {
+    "quantity and value of the item consumed during last\n30 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during last\n30 days": "quantity (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last\n30 days": "(3)"
+  },
+  {
+    "item": "electricity (std. unit)",
+    "item\ncode": "332"
+  },
+  {
+    "item": "® LPG [excl. conveyance]",
+    "item\ncode": "338"
+  },
+  {
+    "item": "firewood and chips",
+    "item\ncode": "331"
+  },
+  {
+    "item": "kerosene – PDS (litre)",
+    "item\ncode": "334"
+  },
+  {
+    "item": "kerosene – other sources (litre)",
+    "item\ncode": "335"
+  },
+  {
+    "item": "other fuel&(charcoal, biogas, gobar gas, coal, dung cake, petrol (litre) [excl. conveyance], diesel (litre) [excl. conveyance], other natural gas^ (CNG, etc.), matches (box), candle (no.), etc.)",
+    "item\ncode": "096"
+  },
+  {
+    "item": "fuel and light: sub-total",
+    "item\ncode": "349"
+  },
+  {
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Question no."
+  },
+  {
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Q9.1"
+  },
+  {
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Section 9.2: Expenditure on other household consumables during the last 30 days"
+  },
+  {
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Question no."
+  },
+  {
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Q9.2"
+  },
+  {
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Go to Section 10"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)"
+  },
+  {
+    "Item": "toilet soap, body-wash, hand-wash, shower gel, face-wash",
+    "item\ncode": "450"
+  },
+  {
+    "Item": "sanitizer",
+    "item\ncode": "016"
+  },
+  {
+    "Item": "toothpaste, mouthwash, toothbrush, etc.",
+    "item\ncode": "451"
+  },
+  {
+    "Item": "shampoo, conditioner, hair serum/gel, hair cream",
+    "item\ncode": "453"
+  },
+  {
+    "Item": "hair oil, hair colour",
+    "item\ncode": "017"
+  },
+  {
+    "Item": "other hair products, accessories, comb, etc.",
+    "item\ncode": "018"
+  },
+  {
+    "Item": "powder, cream, body lotion, moisturizers",
+    "item\ncode": "452"
+  },
+  {
+    "Item": "other beauty products: lipstick, nail polish, compact & foundation, eye make- up kit (kajal/surma, mascara, shadow, liner, etc.), etc.",
+    "item\ncode": "020"
+  },
+  {
+    "Item": "perfume, body spray, deodorant, roll-ons, etc.",
+    "item\ncode": "021"
+  },
+  {
+    "Item": "sanitary napkins",
+    "item\ncode": "456"
+  },
+  {
+    "Item": "baby products (diapers, lotion, powder, etc.)",
+    "item\ncode": "022"
+  },
+  {
+    "Item": "shaving blades, shaving stick, razor",
+    "item\ncode": "454"
+  },
+  {
+    "Item": "shaving cream, shaving foam, aftershave lotion, aftershave balm",
+    "item\ncode": "455"
+  },
+  {
+    "Item": "other toilet articles (body oil, make-up brushes, etc.)",
+    "item\ncode": "457"
+  },
+  {
+    "Item": "toilet articles: sub-total",
+    "item\ncode": "459"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)"
+  },
+  {
+    "Item": "washing soap/soda/powder/liquid detergent",
+    "item\ncode": "466"
+  },
+  {
+    "Item": "other washing requisites",
+    "item\ncode": "467"
+  },
+  {
+    "Item": "floor cleaner, acid, toilet cleaner",
+    "item\ncode": "465"
+  },
+  {
+    "Item": "mosquito repellent, insecticide, anti-rodent, etc.",
+    "item\ncode": "471"
+  },
+  {
+    "Item": "bucket & other plastic goods",
+    "item\ncode": "464"
+  },
+  {
+    "Item": "incense (agarbatti), room freshener",
+    "item\ncode": "468"
+  },
+  {
+    "Item": "flower (fresh): all purposes",
+    "item\ncode": "470"
+  },
+  {
+    "Item": "LED bulb, CFL bulbs",
+    "item\ncode": "023"
+  },
+  {
+    "Item": "other electric bulb, tubelight, decorative lights",
+    "item\ncode": "460"
+  },
+  {
+    "Item": "earthenware, paperware, thermocol plates, etc.",
+    "item\ncode": "462"
+  },
+  {
+    "Item": "electric batteries",
+    "item\ncode": "461"
+  },
+  {
+    "Item": "glassware",
+    "item\ncode": "463"
+  },
+  {
+    "Item": "other petty articles like coir, rope, door mat, non-durable electric goods, etc.",
+    "item\ncode": "472"
+  },
+  {
+    "Item": "other household consumables: sub-total",
+    "item\ncode": "479"
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Question no."
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Q10.1"
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Section 10.2: Expenditure on medical (hospitalisation) during the last 365 days"
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Question no."
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Q10.2"
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Section 10.3: Expenditure on medical (non-hospitalisation) during the last 30 days"
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Question no."
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Q10.3"
+  },
+  {
+    "Section 10.1: Expenditure on education during the last 365 days": "Go to Section 11"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)"
+  },
+  {
+    "item": "tuition and other fees (school, college, etc.)",
+    "item\ncode": "405"
+  },
+  {
+    "item": "private tutor/ coaching centre",
+    "item\ncode": "406"
+  },
+  {
+    "item": "books, journals(incl. e-books, audio books): first hand",
+    "item\ncode": "400"
+  },
+  {
+    "item": "books, journals, etc.: second hand",
+    "item\ncode": "401"
+  },
+  {
+    "item": "stationery, photocopying charges",
+    "item\ncode": "404"
+  },
+  {
+    "item": "other educational expenses (incl. fees for enrolment in web-based training, library charges, educational CD, etc.)",
+    "item\ncode": "408"
+  },
+  {
+    "item": "education: sub-total",
+    "item\ncode": "409"
+  },
+  {
+    "item": "(1)",
+    "item code": "(2)",
+    "value (Rs.)": "(3)"
+  },
+  {
+    "item": "medicine",
+    "item code": "410"
+  },
+  {
+    "item": "doctor's/surgeon's fee",
+    "item code": "412"
+  },
+  {
+    "item": "X-ray, ECG, pathological test, etc.",
+    "item code": "411"
+  },
+  {
+    "item": "hospital & nursing home charges",
+    "item code": "413"
+  },
+  {
+    "item": "other medical expenses",
+    "item code": "414"
+  },
+  {
+    "item": "medical - hospitalisation: sub-total",
+    "item code": "419"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)"
+  },
+  {
+    "item": "medicine",
+    "item\ncode": "420"
+  },
+  {
+    "item": "doctor's/surgeon's fee",
+    "item\ncode": "422"
+  },
+  {
+    "item": "X-ray, ECG, pathological test, etc.",
+    "item\ncode": "421"
+  },
+  {
+    "item": "family planning devices",
+    "item\ncode": "423"
+  },
+  {
+    "item": "other medical expenses",
+    "item\ncode": "424"
+  },
+  {
+    "item": "medical –non- hospitalisation: sub-total",
+    "item\ncode": "429"
+  },
+  {
+    "Section 11.1: Expenditure on conveyance during the last 30 days": "Question no."
+  },
+  {
+    "Section 11.1: Expenditure on conveyance during the last 30 days": "Q11.1"
+  },
+  {
+    "expenditure": "during last 30"
+  },
+  {
+    "expenditure": "days (Rs.)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "expenditure": "(3)"
+  },
+  {
+    "Item": "railway fare",
+    "item\ncode": "024"
+  },
+  {
+    "Item": "bus fare for school, college, etc.: periodic (lumpsum) payment",
+    "item\ncode": "504"
+  },
+  {
+    "Item": "bus fare for commuting to work.: periodic (lumpsum) payment",
+    "item\ncode": "025"
+  },
+  {
+    "Item": "bus /tram fare for school, college: daily (miscellaneous) payments",
+    "item\ncode": "506"
+  },
+  {
+    "Item": "bus/tram fare for commuting to work: daily (miscellaneous) payments",
+    "item\ncode": "505"
+  },
+  {
+    "Item": "bus/tramfare: occasional",
+    "item\ncode": "500"
+  },
+  {
+    "Item": "taxi fare",
+    "item\ncode": "508"
+  },
+  {
+    "Item": "auto-rickshaw/e-rickshaw fare",
+    "item\ncode": "501"
+  },
+  {
+    "Item": "car/bus hired for ceremonial occasion, picnic, etc.",
+    "item\ncode": "510"
+  },
+  {
+    "Item": "steamer, boat fare",
+    "item\ncode": "026"
+  },
+  {
+    "Item": "rickshaw (hand-drawn & cycle) fare",
+    "item\ncode": "511"
+  },
+  {
+    "Item": "air fare",
+    "item\ncode": "503"
+  },
+  {
+    "Item": "petrol for vehicle",
+    "item\ncode": "512"
+  },
+  {
+    "Item": "diesel for vehicle",
+    "item\ncode": "513"
+  },
+  {
+    "Item": "other conveyance expenses",
+    "item\ncode": "514"
+  },
+  {
+    "Item": "conveyance: sub-total",
+    "item\ncode": "519"
+  },
+  {
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Question no."
+  },
+  {
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Q11.2"
+  },
+  {
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Section 11.3: Expenditure on entertainment during the last 30 days"
+  },
+  {
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Question no."
+  },
+  {
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Q11.3"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)"
+  },
+  {
+    "item": "telephone charges: mobile*(incl. data charges if not separable)",
+    "item\ncode": "488"
+  },
+  {
+    "item": "telephone charges: landline* (incl. broadband charges if not separable)",
+    "item\ncode": "487"
+  },
+  {
+    "item": "internet expenses (cable broadband, mobile data charges, etc. if separable)",
+    "item\ncode": "496"
+  },
+  {
+    "item": "water charges*",
+    "item\ncode": "540"
+  },
+  {
+    "item": "barber, beautician, spas, etc.",
+    "item\ncode": "483"
+  },
+  {
+    "item": "domestic helper/cook",
+    "item\ncode": "480"
+  },
+  {
+    "item": "washerman, laundry, ironing, dry cleaning, dyeing of clothes",
+    "item\ncode": "484"
+  },
+  {
+    "item": "sweeper",
+    "item\ncode": "482"
+  },
+  {
+    "item": "attendant, babysitter",
+    "item\ncode": "481"
+  },
+  {
+    "item": "watchmen/security guard, driver",
+    "item\ncode": "027"
+  },
+  {
+    "item": "tailor",
+    "item\ncode": "485"
+  },
+  {
+    "item": "grinding/husking charges, etc.",
+    "item\ncode": "486"
+  },
+  {
+    "item": "priest",
+    "item\ncode": "492"
+  },
+  {
+    "item": "pet animals (incl. birds, fish)",
+    "item\ncode": "495"
+  },
+  {
+    "item": "repair charges for non-durables (electrician’s charges, plumbing charges, etc.)",
+    "item\ncode": "494"
+  },
+  {
+    "item": "legal expenses",
+    "item\ncode": "493"
+  },
+  {
+    "item": "postage, couriers, fax& money order",
+    "item\ncode": "490"
+  },
+  {
+    "item": "other consumer services excluding conveyance (car parking charges, coolie/porter charges, toll charges, miscellaneous expenses, etc.)",
+    "item\ncode": "497"
+  },
+  {
+    "item": "consumer services excluding conveyance: sub-total",
+    "item\ncode": "499"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)"
+  },
+  {
+    "item": "cable TV/DTH/set top box (incl. broadband charges if not separable)",
+    "item\ncode": "437"
+  },
+  {
+    "item": "cinema, theatre",
+    "item\ncode": "430"
+  },
+  {
+    "item": "newspapers, periodicals",
+    "item\ncode": "402"
+  },
+  {
+    "item": "photography",
+    "item\ncode": "435"
+  },
+  {
+    "item": "club, gym, swimming fees& other subscriptions",
+    "item\ncode": "433"
+  },
+  {
+    "item": "online media service provider/streaming services",
+    "item\ncode": "028"
+  },
+  {
+    "item": "other entertainment (mela, fair, picnic, VCD/DVD hire, etc.)",
+    "item\ncode": "438"
+  },
+  {
+    "item": "entertainment: sub-total",
+    "item\ncode": "439"
+  },
+  {
+    "Section 11.4: Expenditure on rent during the last 30 days and other taxes & cesses\nduring the last 365 days": "Question no."
+  },
+  {
+    "Section 11.4: Expenditure on rent during the last 30 days and other taxes & cesses\nduring the last 365 days": "Q11.4"
+  },
+  {
+    "Section 11.4: Expenditure on rent during the last 30 days and other taxes & cesses\nduring the last 365 days": "Go to Section 12"
+  },
+  {
+    "item": "(1)",
+    "item code": "(2)",
+    "value (Rs.)": "(3)"
+  },
+  {
+    "item": "house rent, garage rent (actual)*",
+    "item code": "520"
+  },
+  {
+    "item": "hotel lodging charges",
+    "item code": "521"
+  },
+  {
+    "item": "residential land rent*",
+    "item code": "522"
+  },
+  {
+    "item": "other consumer rent",
+    "item code": "523"
+  },
+  {
+    "item": "rent: sub-total",
+    "item code": "529"
+  },
+  {
+    "item": "house rent, garage rent (imputed)#",
+    "item code": "539"
+  },
+  {
+    "item": "other consumer taxes & cesses",
+    "item code": "899"
+  },
+  {
+    "Section 12.1: Consumption of pan during the last 7 days": "Question no."
+  },
+  {
+    "Section 12.1: Consumption of pan during the last 7 days": "Q12.1"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)",
+    "source#": "(7)"
+  },
+  {
+    "item": "pan: leaf (no.)",
+    "item\ncode": "300"
+  },
+  {
+    "item": "pan: finished (no.)",
+    "item\ncode": "301",
+    "source#": "@"
+  },
+  {
+    "item": "ingredients for pan (gm)",
+    "item\ncode": "302"
+  },
+  {
+    "item": "pan: sub-total",
+    "item\ncode": "309"
+  },
+  {
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Question no."
+  },
+  {
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Q12.2"
+  },
+  {
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Section 12.3: Consumption of intoxicants during the last 7 days"
+  },
+  {
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Question no."
+  },
+  {
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Q12.3"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)",
+    "source#": "(7)"
+  },
+  {
+    "item": "bidi (no.)",
+    "item\ncode": "310"
+  },
+  {
+    "item": "cigarettes (no.)",
+    "item\ncode": "311"
+  },
+  {
+    "item": "gutka, zarda, kimam, surti (gm)",
+    "item\ncode": "316"
+  },
+  {
+    "item": "leaf tobacco (gm)",
+    "item\ncode": "312"
+  },
+  {
+    "item": "hookah tobacco (gm)",
+    "item\ncode": "314"
+  },
+  {
+    "item": "cheroot (no.)",
+    "item\ncode": "315"
+  },
+  {
+    "item": "snuff (gm)",
+    "item\ncode": "313"
+  },
+  {
+    "item": "other tobacco products",
+    "item\ncode": "317"
+  },
+  {
+    "item": "tobacco: sub-total",
+    "item\ncode": "319"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "consumption out of home produce"
+  },
+  {
+    "quantity and value of the item consumed during\nlast 7 days": "quantity* (0.000)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)",
+    "source#": "(7)"
+  },
+  {
+    "item": "country liquor (litre)",
+    "item\ncode": "322",
+    "source#": "@"
+  },
+  {
+    "item": "foreign/refined liquor or wine (litre)",
+    "item\ncode": "324",
+    "source#": "@"
+  },
+  {
+    "item": "beer (litre)",
+    "item\ncode": "323",
+    "source#": "@"
+  },
+  {
+    "item": "toddy (litre)",
+    "item\ncode": "321"
+  },
+  {
+    "item": "ganja (gm)",
+    "item\ncode": "320"
+  },
+  {
+    "item": "other intoxicants",
+    "item\ncode": "325"
+  },
+  {
+    "item": "intoxicants: sub-total",
+    "item\ncode": "329"
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "S. No."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "(1)"
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "1."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "2."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "3."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "4."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "5."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "6."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "7."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "8."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "9."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "10."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "11."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "12."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "13."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "14."
+  },
+  {
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "15."
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ"
+  },
+  {
+    "QB2.1": "QB2.2",
+    "Mobile number of the informant": "Alternate mobile number, if any"
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ"
+  },
+  {
+    "QB2.1": "QB2.3",
+    "Mobile number of the informant": "Landline number of the household"
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ"
+  },
+  {
+    "QB2.1": "QB2.4",
+    "Mobile number of the informant": "Time taken to canvass the Questionnaire - CSQ (in minutes)"
+  },
+  {
+    "QB2.1": "QB2.5",
+    "Mobile number of the informant": "Household’s usual consumption expenditure in a month (in Rs.) (to be used only for cross validation of the data)"
+  },
+  {
+    "QB2.1": "QB2.6",
+    "Mobile number of the informant": "Total expenditure incurred on online purchase/payment of consumables & services during the last 30 days (in Rs.)"
+  },
+  {
+    "QB2.1": "QB2.7",
+    "Mobile number of the informant": "Name of the informant (Instruction: A pop-up with the details of household members as listed in Block 3/3A, Cols.1 & 2 will appear along with an option ‘not a household member’. ‘Srl. no .99 will be provided against non- household member’, if he/she is the respondent. The enumerator should select the ‘informant’ from that list) Srl. no. of the household Name Select the informant member o o 99 not a household member o"
+  },
+  {
+    "QB2.1": "QB2.8",
+    "Mobile number of the informant": "Response code of the informant as assessed by SE/JSO"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  },
+  {
+    "Section 4.3: General information on purchase/payment": "Question no."
+  },
+  {
+    "Section 4.3: General information on purchase/payment": "Q4.3.1"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if\npurchased online during last\n365 days": "(3)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Clothing"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Footwear"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "Furniture & fixtures"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Mobile handset"
+  },
+  {
+    "S. No.": "5.",
+    "item category": "Personal goods (laptop/PC, tablet, clock, watch, spectacles, contact lenses, etc.)"
+  },
+  {
+    "S. No.": "6.",
+    "item category": "Goods for recreation (TV, camera, pen-drive, musical instruments, etc.)"
+  },
+  {
+    "S. No.": "7.",
+    "item category": "Cooking& other household appliances"
+  },
+  {
+    "S. No.": "8.",
+    "item category": "Crockery & utensils"
+  },
+  {
+    "S. No.": "9.",
+    "item category": "Sports goods"
+  },
+  {
+    "S. No.": "10.",
+    "item category": "Medical equipment"
+  },
+  {
+    "S. No.": "11.",
+    "item category": "Bedding (bedsheet, curtain, mattress, etc.)"
+  },
+  {
+    "Section 4.3: General information on purchase/payment": "Question no."
+  },
+  {
+    "Section 4.3: General information on purchase/payment": "Q4.3.2"
+  },
+  {
+    "Section 4.3: General information on purchase/payment": "Q4.3.3"
+  },
+  {
+    "Section 4.3: General information on purchase/payment": "Q4.3.4"
+  },
+  {
+    "Section 4.3: General information on purchase/payment": " Go to Section 13"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check\nbox if received free of\ncost during last 365 days": "(3)",
+    "total no. of item received\nfree of cost(no.)": "(4)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Laptop/PC"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Tablet"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "Mobile handset"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Bicycle"
+  },
+  {
+    "S. No.": "5.",
+    "item category": "Motorcycle/scooty"
+  },
+  {
+    "S. No.": "6.",
+    "item category": "Clothing (School uniform, etc.)"
+  },
+  {
+    "S. No.": "7.",
+    "item category": "Footwear (School shoe, etc.)"
+  },
+  {
+    "S. No.": "8.",
+    "item category": "Others"
+  },
+  {
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if\npossessed as on the date of\nsurvey": "(3)"
+  },
+  {
+    "S. No.": "1.",
+    "item category": "Television"
+  },
+  {
+    "S. No.": "2.",
+    "item category": "Radio"
+  },
+  {
+    "S. No.": "3.",
+    "item category": "Laptop/PC"
+  },
+  {
+    "S. No.": "4.",
+    "item category": "Mobile handset"
+  },
+  {
+    "S. No.": "5.",
+    "item category": "Bicycle"
+  },
+  {
+    "S. No.": "6.",
+    "item category": "Motorcycle, scooter"
+  },
+  {
+    "S. No.": "7.",
+    "item category": "Motor car/jeep/van"
+  },
+  {
+    "S. No.": "8.",
+    "item category": "Trucks"
+  },
+  {
+    "S. No.": "9.",
+    "item category": "Animal cart"
+  },
+  {
+    "S. No.": "10.",
+    "item category": "Refrigerator"
+  },
+  {
+    "S. No.": "11.",
+    "item category": "Washing machine"
+  },
+  {
+    "S. No.": "12.",
+    "item category": "Air conditioner/air cooler"
+  },
+  {
+    "Section 13.1: Expenditure for clothing during the last 365 days": "Question no."
+  },
+  {
+    "Section 13.1: Expenditure for clothing during the last 365 days": "Q13.1"
+  },
+  {
+    "quantity and value of the item procured\nduring last 365 days": "quantity (0.00)"
+  },
+  {
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item procured\nduring last 365 days": "(3)"
+  },
+  {
+    "Item": "clothing: first-hand"
+  },
+  {
+    "Item": "saree (no.)",
+    "item\ncode": "351"
+  },
+  {
+    "Item": "cloth for shirt, pyjama, kurta, salwar, etc. (metre)",
+    "item\ncode": "352"
+  },
+  {
+    "Item": "cloth for coat, trousers, suit, etc. (metre)",
+    "item\ncode": "353"
+  },
+  {
+    "Item": "face mask, gloves",
+    "item\ncode": "030"
+  },
+  {
+    "Item": "T-shirts, polos, tops, shrugs (no.)",
+    "item\ncode": "363"
+  },
+  {
+    "Item": "shirts (no.)",
+    "item\ncode": "031"
+  },
+  {
+    "Item": "trousers, jeans, jeggings, skirts (no.)",
+    "item\ncode": "364"
+  },
+  {
+    "Item": "coat, jacket, blazer, sweater, sweatshirts, windcheater (no.)",
+    "item\ncode": "354"
+  },
+  {
+    "Item": "western suit set (no.)",
+    "item\ncode": "032"
+  },
+  {
+    "Item": "kurta-pajama suits: males (no.)",
+    "item\ncode": "358"
+  },
+  {
+    "Item": "kurta-pajama suits: females (no.)",
+    "item\ncode": "360"
+  },
+  {
+    "Item": "school/college uniform: boys",
+    "item\ncode": "356"
+  },
+  {
+    "Item": "school/college uniform: girls",
+    "item\ncode": "357"
+  },
+  {
+    "Item": "sherwani, lenhnga, gown (no.)",
+    "item\ncode": "033"
+  },
+  {
+    "Item": "kurta, kameez, kurti(no.)",
+    "item\ncode": "361"
+  },
+  {
+    "Item": "pajamas, salwar, leggings, plazzo(no.)",
+    "item\ncode": "362"
+  },
+  {
+    "Item": "dresses, jumpsuits, frocks (no.)",
+    "item\ncode": "365"
+  },
+  {
+    "Item": "track suit, track pant, joggers(no.)",
+    "item\ncode": "034"
+  },
+  {
+    "Item": "shorts, bermuda, maxis, housecoats, baba suit, nightdress, loungewear, etc.",
+    "item\ncode": "368"
+  },
+  {
+    "Item": "shawl, chaddar (no.)",
+    "item\ncode": "355"
+  },
+  {
+    "Item": "blouse, dupatta/stole (no.)",
+    "item\ncode": "366"
+  },
+  {
+    "Item": "lungi(no.)",
+    "item\ncode": "367"
+  },
+  {
+    "Item": "innerwear, socks, and other hosiery items(no.)",
+    "item\ncode": "370"
+  },
+  {
+    "Item": "dhoti (no.)",
+    "item\ncode": "350"
+  },
+  {
+    "Item": "gamchha, towel, handkerchief (no.)",
+    "item\ncode": "371"
+  },
+  {
+    "Item": "headwear, belts, ties, hat, scarf, muffler, etc. (no.)",
+    "item\ncode": "373"
+  },
+  {
+    "Item": "infant clothing",
+    "item\ncode": "372"
+  },
+  {
+    "Item": "clothing (first-hand): other (incl. knitting wool)",
+    "item\ncode": "374"
+  },
+  {
+    "Item": "clothing: second-hand",
+    "item\ncode": "375"
+  },
+  {
+    "Item": "clothing: sub-total",
+    "item\ncode": "379"
+  },
+  {
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Question no."
+  },
+  {
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Q13.2"
+  },
+  {
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Section 13.3: Expenditure for bedding during the last 365 days"
+  },
+  {
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Question no."
+  },
+  {
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Q13.3"
+  },
+  {
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Go to Section 14"
+  },
+  {
+    "quantity and value of the item\nprocured during last 365 days": "no. of pairs"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item\nprocured during last 365 days": "(3)"
+  },
+  {
+    "item": "rubber / PVC footwear",
+    "item\ncode": "393"
+  },
+  {
+    "item": "leather boots, shoes",
+    "item\ncode": "390"
+  },
+  {
+    "item": "leather sandals, chappals, etc.",
+    "item\ncode": "391"
+  },
+  {
+    "item": "other leather footwear",
+    "item\ncode": "392"
+  },
+  {
+    "item": "other footwear",
+    "item\ncode": "394"
+  },
+  {
+    "item": "footwear: second-hand",
+    "item\ncode": "395"
+  },
+  {
+    "item": "footwear: sub-total",
+    "item\ncode": "399"
+  },
+  {
+    "quantity and value of the item\nprocured during last 365 days": "quantity (0.00)"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item\nprocured during last 365 days": "(3)"
+  },
+  {
+    "item": "bed sheet, bed cover (no.)",
+    "item\ncode": "380"
+  },
+  {
+    "item": "rug, blanket (no.)",
+    "item\ncode": "381"
+  },
+  {
+    "item": "quilt, mattress (no.)",
+    "item\ncode": "383"
+  },
+  {
+    "item": "pillow, cushion(no.)",
+    "item\ncode": "382"
+  },
+  {
+    "item": "mosquito net (no.)",
+    "item\ncode": "385"
+  },
+  {
+    "item": "cloth for upholstery, curtains, tablecloth, etc. (metre)",
+    "item\ncode": "384"
+  },
+  {
+    "item": "bedding: others",
+    "item\ncode": "386"
+  },
+  {
+    "item": "bedding, etc.: sub-total",
+    "item\ncode": "389"
+  },
+  {
+    "Section 14.1: Expenditure for purchase (including repair & maintenance)ofpersonal\ngoods for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "Section 14.1: Expenditure for purchase (including repair & maintenance)ofpersonal\ngoods for domestic use during the last 365 days": "Q14.1"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "spectacles/goggles, contact lenses",
+    "item\ncode": "440"
+  },
+  {
+    "item": "umbrella, raincoat, helmet",
+    "item\ncode": "441"
+  },
+  {
+    "item": "other minor durable-type goods (like torch, lock, lighter,etc.)",
+    "item\ncode": "442"
+  },
+  {
+    "item": "mobile handset",
+    "item\ncode": "623"
+  },
+  {
+    "item": "telephone instrument (landline)",
+    "item\ncode": "624"
+  },
+  {
+    "item": "PC/ Laptop/ tablet, other peripherals incl. software",
+    "item\ncode": "622"
+  },
+  {
+    "item": "clock, watch, smartwatch, fitness tracker",
+    "item\ncode": "620"
+  },
+  {
+    "item": "back-pack, handbags, vanity bags, purse, clutch, etc.",
+    "item\ncode": "554"
+  },
+  {
+    "item": "headphone, earphone, ear pod,airpod, bluetooth devices/speakers etc.",
+    "item\ncode": "035"
+  },
+  {
+    "item": "other machines for household work",
+    "item\ncode": "621"
+  },
+  {
+    "item": "any other personal goods(power banks, hair dryers, straightener/curler,trimmer, groomer, epilator, etc.)",
+    "item\ncode": "625"
+  },
+  {
+    "item": "other personal goods: sub-total",
+    "item\ncode": "629"
+  },
+  {
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Q14.2"
+  },
+  {
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Section 14.3: Expenditure for purchase (including repair & maintenance)of sports goods for domestic use during the last 365 days"
+  },
+  {
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Q14.3"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purchased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "motor cycle, scooter",
+    "item\ncode": "601"
+  },
+  {
+    "item": "motor car, jeep",
+    "item\ncode": "602"
+  },
+  {
+    "item": "bicycle",
+    "item\ncode": "600"
+  },
+  {
+    "item": "tyres & tubes",
+    "item\ncode": "603"
+  },
+  {
+    "item": "other transport equipment",
+    "item\ncode": "604"
+  },
+  {
+    "item": "personal transport equipment: sub-total",
+    "item\ncode": "609"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purchased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "exercise equipment: treadmill, fitness cycle, etc.",
+    "item\ncode": "036"
+  },
+  {
+    "item": "weighing machine",
+    "item\ncode": "037"
+  },
+  {
+    "item": "sportsgoods (badminton racket, shuttle cock, football, cricket bat, etc.)&toys",
+    "item\ncode": "432"
+  },
+  {
+    "item": "other sports goods",
+    "item\ncode": "097"
+  },
+  {
+    "item": "sports goods: sub- total",
+    "item\ncode": "099"
+  },
+  {
+    "Section 14.4: Expenditure for purchase (including repair & maintenance)of medical\nequipment for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "Section 14.4: Expenditure for purchase (including repair & maintenance)of medical\nequipment for domestic use during the last 365 days": "Q14.4"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purchased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "wheelchair",
+    "item\ncode": "040"
+  },
+  {
+    "item": "massagers",
+    "item\ncode": "041"
+  },
+  {
+    "item": "hearing aids & orthopaedic equipment",
+    "item\ncode": "610"
+  },
+  {
+    "item": "nebulizer",
+    "item\ncode": "042"
+  },
+  {
+    "item": "other medical equipment (blood pressure monitoring machine, etc.)",
+    "item\ncode": "611"
+  },
+  {
+    "item": "medical equipment: sub-total",
+    "item\ncode": "619"
+  },
+  {
+    "Section 14.5: Expenditure for purchase (including repair & maintenance)of cooking &\nother household appliances for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "Section 14.5: Expenditure for purchase (including repair & maintenance)of cooking &\nother household appliances for domestic use during the last 365 days": "Q14.5"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "electric fan",
+    "item\ncode": "580"
+  },
+  {
+    "item": "electric air heaters & blowers",
+    "item\ncode": "043"
+  },
+  {
+    "item": "air conditioner",
+    "item\ncode": "581"
+  },
+  {
+    "item": "air cooler",
+    "item\ncode": "044"
+  },
+  {
+    "item": "air purifier",
+    "item\ncode": "045"
+  },
+  {
+    "item": "refrigerator/freezers",
+    "item\ncode": "588"
+  },
+  {
+    "item": "washing machine",
+    "item\ncode": "585"
+  },
+  {
+    "item": "inverter, generators, stabilizers",
+    "item\ncode": "582"
+  },
+  {
+    "item": "geysers & hot water systems, sterilizers",
+    "item\ncode": "046"
+  },
+  {
+    "item": "stove, gas burner, induction",
+    "item\ncode": "586"
+  },
+  {
+    "item": "water purifier",
+    "item\ncode": "590"
+  },
+  {
+    "item": "ventilation system such as exhaust, chimney, etc.",
+    "item\ncode": "047"
+  },
+  {
+    "item": "mixer/grinder, juicer, food processor",
+    "item\ncode": "048"
+  },
+  {
+    "item": "pressure cooker/ pressure pan",
+    "item\ncode": "587"
+  },
+  {
+    "item": "electric iron, heater, toaster, micro-oven, electric kettle, vacuum cleaner, & other electric heating appliances",
+    "item\ncode": "591"
+  },
+  {
+    "item": "sewing machine",
+    "item\ncode": "584"
+  },
+  {
+    "item": "lantern, lamp, electric lampshade, emergency light",
+    "item\ncode": "583"
+  },
+  {
+    "item": "other cooking/ household appliances",
+    "item\ncode": "592"
+  },
+  {
+    "item": "cooking & other household appliances: sub-total",
+    "item\ncode": "599"
+  },
+  {
+    "utensils for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "utensils for domestic use during the last 365 days": "Q14.6"
+  },
+  {
+    "utensils for domestic use during the last 365 days": "Section 14.7: Expenditure for purchase and construction of furniture & fixtures for domestic use during the last 365 days"
+  },
+  {
+    "utensils for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "utensils for domestic use during the last 365 days": "Q14.7"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "stainless steel utensils",
+    "item\ncode": "570"
+  },
+  {
+    "item": "other metal utensils (non-stick cookware, etc.)",
+    "item\ncode": "571"
+  },
+  {
+    "item": "casseroles, thermos, flask, thermoware",
+    "item\ncode": "572"
+  },
+  {
+    "item": "water bottle/feeding bottle",
+    "item\ncode": "050"
+  },
+  {
+    "item": "other crockery & utensils (jars & containers, cutlery, dinner set, etc.)",
+    "item\ncode": "573"
+  },
+  {
+    "item": "crockery & utensils: sub-total",
+    "item\ncode": "579"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "bedstead",
+    "item\ncode": "550"
+  },
+  {
+    "item": "almirah, dressing table",
+    "item\ncode": "551"
+  },
+  {
+    "item": "chair, stool, bench, table",
+    "item\ncode": "552"
+  },
+  {
+    "item": "suitcase, trolley bag, duffle bag, trunk, etc.",
+    "item\ncode": "553"
+  },
+  {
+    "item": "carpet, daree& other floor mattings",
+    "item\ncode": "555"
+  },
+  {
+    "item": "paintings, drawings, engravings, etc.",
+    "item\ncode": "556"
+  },
+  {
+    "item": "other furniture & fixtures (couch, sofa, etc.)",
+    "item\ncode": "557"
+  },
+  {
+    "item": "furniture & fixtures: sub-total",
+    "item\ncode": "559"
+  },
+  {
+    "for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "for domestic use during the last 365 days": "Q14.8"
+  },
+  {
+    "for domestic use during the last 365 days": "Section 14.9: Expenditure for purchase and construction of residential building, land and other durables for domestic use during the last 365 days"
+  },
+  {
+    "for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "for domestic use during the last 365 days": "Q14.9"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "television",
+    "item\ncode": "560"
+  },
+  {
+    "item": "camera & photographic equipment",
+    "item\ncode": "561"
+  },
+  {
+    "item": "CD, DVD, pen-drive, external hard disk",
+    "item\ncode": "562"
+  },
+  {
+    "item": "musical instruments",
+    "item\ncode": "563"
+  },
+  {
+    "item": "other goods for recreation(incl. radio, VCR/VCD/DVD player, home theatre system, play station, etc.)",
+    "item\ncode": "564"
+  },
+  {
+    "item": "goods for recreation: sub- total",
+    "item\ncode": "569"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "residential building & land (cost of minorrepairs only)",
+    "item\ncode": "632"
+  },
+  {
+    "item": "bathroom and sanitary equipment",
+    "item\ncode": "630"
+  },
+  {
+    "item": "plugs, switches & other electrical fittings",
+    "item\ncode": "631"
+  },
+  {
+    "item": "other durables",
+    "item\ncode": "633"
+  },
+  {
+    "item": "residential building, land and other durables: sub-total",
+    "item\ncode": "639"
+  },
+  {
+    "Section 14.10: Expenditure for purchase (including repair & maintenance)of jewellery &\nornaments for domestic use during the last 365 days": "Question no."
+  },
+  {
+    "Section 14.10: Expenditure for purchase (including repair & maintenance)of jewellery &\nornaments for domestic use during the last 365 days": "Q14.10"
+  },
+  {
+    "first-hand purchase": "no. of item purch- ased",
+    "second-hand\npurchase": "no. of item purch- ased"
+  },
+  {
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "item": "gold /diamond /platinum jewellery",
+    "item\ncode": "640"
+  },
+  {
+    "item": "silver jewellery",
+    "item\ncode": "641"
+  },
+  {
+    "item": "jewels, pearls, precious stones",
+    "item\ncode": "642"
+  },
+  {
+    "item": "otherjewellery and ornaments (artificial jewellery, etc.)",
+    "item\ncode": "643"
+  },
+  {
+    "item": "jewellery & ornaments: sub-total",
+    "item\ncode": "649"
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "S. No."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "(1)"
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "1."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "2."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "3."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "4."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "5."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "6."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "7."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "8."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "9."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "10."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "11."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "12."
+  },
+  {
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "13."
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "QC2.1": "QC2.2",
+    "Mobile number of the informant": "Alternate mobile number, if any"
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "QC2.1": "QC2.3",
+    "Mobile number of the informant": "Landline number of the household"
+  },
+  {
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "QC2.1": "QC2.4",
+    "Mobile number of the informant": "Time taken to canvass the Questionnaire - DGQ (in minutes)"
+  },
+  {
+    "QC2.1": "QC2.5",
+    "Mobile number of the informant": "Household’s usual consumption expenditure in a month (in Rs.) (to be used only for cross validation of the data)"
+  },
+  {
+    "QC2.1": "QC2.6",
+    "Mobile number of the informant": "Total expenditure incurred on online purchase/payment of durable goods during the last 365 days (in Rs.)"
+  },
+  {
+    "QC2.1": "QC2.7",
+    "Mobile number of the informant": "Name of the informant (Instruction: A pop-up with the details of household members as listed in Block 3/3A, Cols.1 & 2 will appear along with an option ‘not a household member’. ‘Srl. no .99 will be provided against non- household member’, if he/she is the respondent. The enumerator should select the ‘informant’ from that list) Srl. no. of the household Name Select the informant member o o 99 not a household member o"
+  },
+  {
+    "QC2.1": "QC2.8",
+    "Mobile number of the informant": "Response code of the informant as assessed by SE/JSO"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Select the informant": "o"
+  },
+  {
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  }
+]

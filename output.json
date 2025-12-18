@@ -1,0 +1,6329 @@
+[
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.1",
+    "item": "name of the State/UT:",
+    "code/number": null,
+    "Remarks": "Auto populated from\nsample list."
+  },
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.2",
+    "item": "name of the district:",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.3",
+    "item": "name of the sub-district or tehsil",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.4",
+    "item": "name of the village/town:",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.5",
+    "item": "specify investigator unit no.:",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.6",
+    "item": "specify block no.:",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 1,
+    "item no.": "0.7",
+    "item": "specify SU no.:",
+    "code/number": "Identified after Sub unit formation in section 4.2",
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.1",
+    "item": "serial number of sample FSU:",
+    "code/number": null,
+    "Remarks": "Auto populated from sample list"
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.2",
+    "item": "starting year of survey:",
+    "code/number": "2",
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.3",
+    "item": "questionnaire number",
+    "code/number": "LCES2023",
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.4",
+    "item": "sector (rural-1, urban-2)",
+    "code/number": null,
+    "Remarks": "Auto populated from sample list"
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.5",
+    "item": "NSS region code",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.6",
+    "item": "district code",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.7",
+    "item": "stratum number",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.8",
+    "item": "sub-stratum number",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.9",
+    "item": "Panel no",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.10",
+    "item": "Sub-sample no",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.11",
+    "item": "FOD sub-region code",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.12",
+    "item": "frame code",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.13",
+    "item": "population of village or number of\nhouseholds of UFS block:",
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.14",
+    "item": "approximate present population of the\nentire village/ UFS block (in which the\nSU is located ):",
+    "code/number": null,
+    "Remarks": "To be ascertained in the field."
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.15",
+    "item": "total number of SUs to be formed (D)",
+    "code/number": null,
+    "Remarks": "Auto populated from sample list"
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.16",
+    "item": "approximate present population of\nselected SU",
+    "code/number": null,
+    "Remarks": "To be ascertained in the field after\nidentification of selected sub-unit."
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "1.17",
+    "item": "number of Sub-divisions of SU to be\nformed (D )\n1",
+    "code/number": null,
+    "Remarks": "If no Sub-division will be formed\nthen 1 will be recorded here."
+  },
+  {
+    "page_no": 1,
+    "table_no": 2,
+    "item no.": "Please choose the appropriate alternative for the following :",
+    "item": null,
+    "code/number": null,
+    "Remarks": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 1,
+    "1.18": "1.19",
+    "survey code:\nif selected FSU surveyed:\ninhabited – 1\nuninhabited – 2\nzero case – 3\noriginally selected FSU not surveyed but substitute FSU surveyed:\ninhabited – 4\nuninhabited – 5\nzero case – 6\nselected FSU casualty – 7": "reason for substitution of original sample (code) (for codes 4-7 in item\n1.18):\nnot identifiable/traceable – 1\nnot accessible – 2\nrestricted area (not permitted to survey) – 3\nothers (specify) – 9"
+  },
+  {
+    "page_no": 2,
+    "table_no": 2,
+    "item no.": "2.1",
+    "i t e m": "2.1.1 name of Junior Statistical Officer (JSO)/ Survey enumerator\n(SE) (in block letters)",
+    "name/code": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 2,
+    "item no.": null,
+    "i t e m": "2.1.2 employee code of JSO/SE",
+    "name/code": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 2,
+    "item no.": "2.2",
+    "i t e m": "2.2.1 name of Junior Statistical Officer (JSO)/ Survey Enumerator\n(SE) (in block letters)",
+    "name/code": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 2,
+    "item no.": null,
+    "i t e m": "2.2.2 employee code of JSO/SE",
+    "name/code": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 2,
+    "item no.": "2.3",
+    "i t e m": "2.3.1 name of Senior Statistical Officer (SSO)/ Survey supervisor\n(SS)\n(in block letters)",
+    "name/code": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 2,
+    "item no.": null,
+    "i t e m": "2.3.2 employee code of SSO/SS",
+    "name/code": null
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": null,
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.2 commencement of inspection (to be filled by SSO/SS)"
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": null,
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.3 completion of survey (to be filled by JSO/SE)"
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": null,
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.4 completion of inspection (to be filled by SSO/SS)"
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": null,
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.5 receipt (to be filled by SSO/SS)"
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": null,
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.6 scrutiny (to be filled by SSO/SS)"
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": null,
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "2.4.7 despatch (to be filled by SSO/SS)"
+  },
+  {
+    "page_no": 2,
+    "table_no": 3,
+    "2.4\n( in the format\nDD MM YY)": "2.5",
+    "2.4.1 commencement of survey (to be filled by JSO/SE)": "total time taken to canvass the questionnaire by the team of\nenumerators (to be filled by JSO/SE)"
+  },
+  {
+    "page_no": 3,
+    "table_no": 1,
+    "(in hours) [no decimal point]": "whether any\nremark has\nbeen entered\nby JSO/SE\n(yes-1, no-2)"
+  },
+  {
+    "page_no": 3,
+    "table_no": 1,
+    "(in hours) [no decimal point]": null
+  },
+  {
+    "page_no": 3,
+    "table_no": 1,
+    "(in hours) [no decimal point]": "whether any\nremark has\nbeen entered\nby supervisory\nofficer\n(yes-1, no-2)"
+  },
+  {
+    "page_no": 3,
+    "table_no": 1,
+    "(in hours) [no decimal point]": null
+  },
+  {
+    "page_no": 6,
+    "table_no": 1,
+    "serial number": "(1)",
+    "name of hamlet": "(2)",
+    "percentage of population of\neach hamlet": "(3)",
+    "Remarks": "running serial number\nfor the hamlets to be\ngiven in col .1.\n% of total pop. for\nhamlets reported in col 3\nshould add up to 100."
+  },
+  {
+    "page_no": 6,
+    "table_no": 1,
+    "serial number": "Total",
+    "name of hamlet": null,
+    "percentage of population of\neach hamlet": "100",
+    "Remarks": null
+  },
+  {
+    "page_no": 6,
+    "table_no": 2,
+    "D=": "serial number\nof SU"
+  },
+  {
+    "page_no": 6,
+    "table_no": 2,
+    "D=": "(1)"
+  },
+  {
+    "page_no": 6,
+    "table_no": 2,
+    "D=": "Total"
+  },
+  {
+    "page_no": 6,
+    "table_no": 3,
+    "SU no.= D = R=\n1": "serial no. of\nSub-division"
+  },
+  {
+    "page_no": 6,
+    "table_no": 3,
+    "SU no.= D = R=\n1": "(1)"
+  },
+  {
+    "page_no": 6,
+    "table_no": 3,
+    "SU no.= D = R=\n1": "Total"
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.1",
+    "item": "house number:\n[census/ municipality/ local body/ panchayat\nhouse number if available; running serial\nnumber within bracket otherwise]",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.2",
+    "item": "is the house used only for\nnon-residential purposes?\n(Yes – 1, No – 2)\nIf Yes, Go to item 5.1 of next row",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.3",
+    "item": "household serial number:\n[only for houses/ structures used for\nresidential purposes (Starting serial no is 1.\nThen continuous numbering without\nomission and duplication for each household\nlisted).",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.4",
+    "item": "name of head of the household",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.5",
+    "item": "household size",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.6",
+    "item": "area of land possessed (lp) in acre : (for\nrural only)\n[1 acre=0.405 hectare, 1 hectare=2.471 acre ]",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.7",
+    "item": "Whether the household owns one or more\nfour wheeler cars for non-commercial use?\n(for urban only)\n(Yes=1, No=2)",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.8",
+    "item": "If 1 in item 5.7 then total purchase value of\nfour wheeler cars (code)\n[value of car > 10 lakh=1\nvalue of car ≤10 lakh=2]",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.9",
+    "item": "Compute: SSS number",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.10",
+    "item": "mobile number of head of the household",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.11",
+    "item": "mobile number of any other member of\nthe household",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "5.12",
+    "item": "land line number of the household",
+    "number/code": null
+  },
+  {
+    "page_no": 7,
+    "table_no": 1,
+    "item no.": "GO TO NEXT ROW",
+    "item": null,
+    "number/code": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": null,
+    "number of households": "listed\n(H)"
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": null,
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": "(1)",
+    "population": "(2)",
+    "second\nstage\nstratum\n(SSS)": "(3)",
+    "number of households": "(4)"
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": "HCQ",
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "1",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "2",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "3",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "all (9)",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": "FDQ",
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "1",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "2",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "3",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "all (9)",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": "CSQ",
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "1",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "2",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "3",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "all (9)",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": "DGQ",
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "1",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "2",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "3",
+    "number of households": null
+  },
+  {
+    "page_no": 8,
+    "table_no": 1,
+    "questionnaire": null,
+    "population": null,
+    "second\nstage\nstratum\n(SSS)": "all (9)",
+    "number of households": null
+  },
+  {
+    "page_no": 10,
+    "table_no": 1,
+    "1.1. sector:": null,
+    "o rural": "o urban"
+  },
+  {
+    "page_no": 10,
+    "table_no": 13,
+    "1.13. survey code\n[If 2 or 3 in 1.13 go to 1.14]": null,
+    "o original -1,": "o substitute -2,"
+  },
+  {
+    "page_no": 10,
+    "table_no": 13,
+    "1.13. survey code\n[If 2 or 3 in 1.13 go to 1.14]": null,
+    "o original -1,": "o casualty -3"
+  },
+  {
+    "page_no": 10,
+    "table_no": 14,
+    "1.14. reason code for substitution/ casualty\nof the original household\n(the interviewer will fill up this item if a\nsubstituted household is canvassed or the\nhousehold is a casualty)": null,
+    "o informant busy -1,": "o members away from home -2,"
+  },
+  {
+    "page_no": 10,
+    "table_no": 14,
+    "1.14. reason code for substitution/ casualty\nof the original household\n(the interviewer will fill up this item if a\nsubstituted household is canvassed or the\nhousehold is a casualty)": null,
+    "o informant busy -1,": "o informant non-cooperative -3,"
+  },
+  {
+    "page_no": 10,
+    "table_no": 14,
+    "1.14. reason code for substitution/ casualty\nof the original household\n(the interviewer will fill up this item if a\nsubstituted household is canvassed or the\nhousehold is a casualty)": null,
+    "o informant busy -1,": "o others -9"
+  },
+  {
+    "page_no": 11,
+    "table_no": 1,
+    "Q2.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed below]": "List the names of the household members"
+  },
+  {
+    "page_no": 11,
+    "table_no": 1,
+    "Q2.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed below]": "serial number"
+  },
+  {
+    "page_no": 11,
+    "table_no": 1,
+    "Q2.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed below]": "[Instruction:\n All the members of the sample household will be listed using a continuous serial number\nstarting with 1.\n The head of the household will appear first followed by head's spouse, the first son, first son's\nwife and their children, second son, second son's wife and their children and so on. After the\nsons are enumerated, the daughters will be listed followed by other relations, dependants,\nservants, etc.\n Include paying guests domestic servants, other relations and non-relations who are normally\nliving together for six months or more or are expected to stay for six months or more and\ntaking food from a common kitchen.\n Include temporary stay-aways(i.e., persons whose total period of absence from the household\nis expected to be less than 6 months).\n Exclude temporary visitors and guests (whose expected total period of stay in the household\nless than 6 months).\nGo to Section 3"
+  },
+  {
+    "page_no": 12,
+    "table_no": 1,
+    "Section 3: demographic and other particulars of household members": "o.\nn\nrl.\ns"
+  },
+  {
+    "page_no": 12,
+    "table_no": 1,
+    "Section 3: demographic and other particulars of household members": null
+  },
+  {
+    "page_no": 12,
+    "table_no": 1,
+    "Section 3: demographic and other particulars of household members": null
+  },
+  {
+    "page_no": 12,
+    "table_no": 1,
+    "Section 3: demographic and other particulars of household members": null
+  },
+  {
+    "page_no": 12,
+    "table_no": 1,
+    "Section 3: demographic and other particulars of household members": "(1)"
+  },
+  {
+    "page_no": 12,
+    "table_no": 1,
+    "Section 3: demographic and other particulars of household members": "Instruction: Codes for Section 3\n Col. (3) : relation to head: self-1, spouse of head-2, married child-3, spouse of married child-4, unmarried\nchild-5, grandchild-6, father/mother/father-in-law/mother-in-law-7, brother/sister/brother-in-law/sister-in-\nlaw/other relatives-8, servants/employees/other non-relatives-9\n Col.(6) : marital status: never married – 1, currently married – 2, widowed – 3, divorced/separated – 4\n Col. (7): highest educational level attained:\no not literate (i.e. not able to read or write a simple message with understanding in any language) -01\no literate with non-formal education (like NFEC, AEC, TLC, literate without any schooling, etc.)-02\nliterate with formal education\no below primary-03\no primary -04\no upper primary/middle -05\no secondary -06\no higher secondary -07\no diploma /certificate course (up to secondary)-08\no diploma/certificate course (higher secondary)-10\no diploma/certificate course(graduation & above)-11\no graduate -12\no post graduate and above -13\n*applicable for persons of age >=3 years (i.e., Col. 5>=3)\nNote: Information on Col. 10 – 16 is to be collected while canvassing the Questionnaire FDQ."
+  },
+  {
+    "page_no": 13,
+    "table_no": 1,
+    "Section4: Household characteristics": "Question\nno."
+  },
+  {
+    "page_no": 13,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.1"
+  },
+  {
+    "page_no": 13,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.2"
+  },
+  {
+    "page_no": 13,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.3"
+  },
+  {
+    "page_no": 13,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.4"
+  },
+  {
+    "page_no": 13,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.5"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Question\nno."
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.6"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.7"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.8"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.9"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.10"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.11"
+  },
+  {
+    "page_no": 14,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.12"
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Question\nno."
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": null
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.13"
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.14"
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.15"
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.16"
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.17"
+  },
+  {
+    "page_no": 15,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.21"
+  },
+  {
+    "page_no": 16,
+    "table_no": 1,
+    "Section4: Household characteristics": "Question\nno."
+  },
+  {
+    "page_no": 16,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.22"
+  },
+  {
+    "page_no": 16,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.29"
+  },
+  {
+    "page_no": 16,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.30"
+  },
+  {
+    "page_no": 16,
+    "table_no": 1,
+    "Section4: Household characteristics": "Q4.31"
+  },
+  {
+    "page_no": 16,
+    "table_no": 1,
+    "Section4: Household characteristics": " Go to Section 1.1"
+  },
+  {
+    "page_no": 17,
+    "table_no": 14,
+    "1.14A. Is household available for survey?": null,
+    "o yes-1": "o no-2"
+  },
+  {
+    "page_no": 18,
+    "table_no": 1,
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": "List the names of the household members"
+  },
+  {
+    "page_no": 18,
+    "table_no": 1,
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": "serial number"
+  },
+  {
+    "page_no": 18,
+    "table_no": 1,
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": "will be auto generated based on the household members listed against Section 3A"
+  },
+  {
+    "page_no": 18,
+    "table_no": 1,
+    "Q2A.1. How many persons are in the household, who are normally living together for six\nmonths or more or are expected to stay for six months or more and taking food from a\ncommon kitchen?\n[Instruction:\nthis number will be auto generated based on the household members listed against Section\n3A]": " Go to Section 3A"
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "o.\nn\nrl.\ns"
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "(1)"
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "In part 3A.1 the serial number will be same as that of the last visit\n(this will be auto-populated from the information collected during the first visit)"
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "Section 3A.2: demographic and other particulars of the new household members"
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "In part 3A.2 the serial number will be continuous from Section 3A.1"
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": null
+  },
+  {
+    "page_no": 19,
+    "table_no": 1,
+    "Section 3A.1: demographic and other particulars of the erstwhile household members": "Instruction: Codes for Section 3A.1/3A.2\n Col. (3) : relation to head: self-1, spouse of head-2, married child-3, spouse of married child-4, unmarried child-\n5, grandchild-6, father/mother/father-in-law/mother-in-law-7, brother/sister/brother-in-law/sister-in-law/other"
+  },
+  {
+    "page_no": 20,
+    "table_no": 2,
+    "1.1.2. alternate mobile number, if any": "(Instruction: alternate mobile number will be of the informant, if any, otherwise any other member\nof the household)"
+  },
+  {
+    "page_no": 20,
+    "table_no": 3,
+    "1.1.3. landline number of the household": "(STD code without zero followed by land line number will be recorded)"
+  },
+  {
+    "page_no": 20,
+    "table_no": 5,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 20,
+    "table_no": 5,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 20,
+    "table_no": 5,
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 20,
+    "table_no": 6,
+    "1.1.6. response code of the informant as assessed by SE/JSO": null,
+    "o informant co-operative and capable-1": "o informant co-operative but not"
+  },
+  {
+    "page_no": 20,
+    "table_no": 6,
+    "1.1.6. response code of the informant as assessed by SE/JSO": null,
+    "o informant co-operative and capable-1": "capable-2"
+  },
+  {
+    "page_no": 20,
+    "table_no": 6,
+    "1.1.6. response code of the informant as assessed by SE/JSO": null,
+    "o informant co-operative and capable-1": "o informant busy-3"
+  },
+  {
+    "page_no": 20,
+    "table_no": 6,
+    "1.1.6. response code of the informant as assessed by SE/JSO": null,
+    "o informant co-operative and capable-1": "o informant reluctant-4"
+  },
+  {
+    "page_no": 22,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Question\nno."
+  },
+  {
+    "page_no": 22,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Q4.1.1"
+  },
+  {
+    "page_no": 22,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Q4.1.2"
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": "(3)"
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "1.",
+    "item category": "Rice",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "2.",
+    "item category": "Wheat",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "3.",
+    "item category": "Coarse Grain",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "4.",
+    "item category": "Sugar",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "5.",
+    "item category": "Pulses",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "6.",
+    "item category": "Edible oil",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 22,
+    "table_no": 2,
+    "S. No.": "7.",
+    "item category": "Other food items (including\nsalt, gram, etc.)",
+    "please select the check box if procured any item given\nbelowusing ration card during last 30 days": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Question\nno."
+  },
+  {
+    "page_no": 23,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Q4.1.3"
+  },
+  {
+    "page_no": 23,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Q4.1.4"
+  },
+  {
+    "page_no": 23,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": "Q4.1.5"
+  },
+  {
+    "page_no": 23,
+    "table_no": 1,
+    "Section4.1: General information onpurchase/payment": " Go to Section 5"
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "reference\nperiod\n(in days)": "(3)",
+    "please select the check box if\npurchased online during the\nreference period": "(4)"
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "1.",
+    "item category": "Groceries (cereals, pulses & its products, edible oil,\nsugar& salt, spices, beverages, etc.)",
+    "reference\nperiod\n(in days)": "30",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "2.",
+    "item category": "Milk & its products",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "3.",
+    "item category": "Vegetables",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "4.",
+    "item category": "Fruits (fresh)",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "5.",
+    "item category": "Fruits (dry)",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "6.",
+    "item category": "Egg, fish & meat",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "7.",
+    "item category": "Served processed food (meals, snacks, drinks, etc.)",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "8.",
+    "item category": "Packed processed food",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 23,
+    "table_no": 2,
+    "S. No.": "9.",
+    "item category": "Other food items",
+    "reference\nperiod\n(in days)": "7",
+    "please select the check box if\npurchased online during the\nreference period": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 1,
+    "Section5.1:Consumption of cereals during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 24,
+    "table_no": 1,
+    "Section5.1:Consumption of cereals during the last 30 days": "Q5.1"
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 30 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 30 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 30 days": "(3)"
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "rice-free$",
+    "item\ncode": "061",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "wheat/atta- free$",
+    "item\ncode": "062",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "coarse grains&- free$\n(jowar, bajra, maize,\nbarley, ragi, small millets)",
+    "item\ncode": "070",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "rice – PDS",
+    "item\ncode": "101",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "rice – other sources",
+    "item\ncode": "102",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "chira",
+    "item\ncode": "103",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "muri",
+    "item\ncode": "105",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "other rice products\n(khoi/lawa,etc.)",
+    "item\ncode": "106",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "wheat/ atta – PDS",
+    "item\ncode": "107",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "wheat/ atta – other sources",
+    "item\ncode": "108",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "maida",
+    "item\ncode": "110",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "suji, rawa",
+    "item\ncode": "111",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "vermicelli (sewai)",
+    "item\ncode": "112",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "other wheat products",
+    "item\ncode": "114",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "coarse grains-PDS&\n(jowar, bajra, maize,\nbarley, ragi, small millets)",
+    "item\ncode": "001",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "coarse grains-other\nsources&(jowar, bajra,\nmaize, barley, ragi, small\nmillets & its products)",
+    "item\ncode": "002",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "other cereals& products",
+    "item\ncode": "122",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "cereal: sub-total",
+    "item\ncode": "129",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 24,
+    "table_no": 2,
+    "Item": "cereal substitutes:\ntapioca, etc.",
+    "item\ncode": "139",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 1,
+    "Section 5.2: Consumption of pulses during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 26,
+    "table_no": 1,
+    "Section 5.2: Consumption of pulses during the last 30 days": "Q5.2"
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 30 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 30 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 30 days": "(3)"
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "arhar, tur",
+    "item\ncode": "140",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "moong",
+    "item\ncode": "143",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "masur",
+    "item\ncode": "144",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "urd",
+    "item\ncode": "145",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "gram: split",
+    "item\ncode": "141",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "gram: whole",
+    "item\ncode": "142",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "peas, chickpeas",
+    "item\ncode": "146",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "other pulses\n(khesari, etc.)",
+    "item\ncode": "148",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "besan, gram\nproducts",
+    "item\ncode": "150",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "pulses - PDS",
+    "item\ncode": "158",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "other pulse products\n(soya chunks, etc.)",
+    "item\ncode": "152",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "pulses –free$",
+    "item\ncode": "071",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "gram- free$",
+    "item\ncode": "072",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 26,
+    "table_no": 2,
+    "Item": "pulses & pulse\nproducts: sub-total",
+    "item\ncode": "159",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 1,
+    "Section 5.3: Consumption of sugar & salt during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 27,
+    "table_no": 1,
+    "Section 5.3: Consumption of sugar & salt during the last 30 days": "Q5.3"
+  },
+  {
+    "page_no": 27,
+    "table_no": 1,
+    "Section 5.3: Consumption of sugar & salt during the last 30 days": "Go to Section 6"
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 30 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 30 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 30 days": "(3)"
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "salt –free$",
+    "item\ncode": "073",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "sugar- free$",
+    "item\ncode": "074",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "salt - PDS",
+    "item\ncode": "178",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "salt – other sources",
+    "item\ncode": "170",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "sugar –PDS",
+    "item\ncode": "171",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "sugar – other sources",
+    "item\ncode": "172",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "jaggery (gur)",
+    "item\ncode": "173",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "candy, misri",
+    "item\ncode": "174",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "honey",
+    "item\ncode": "175",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 27,
+    "table_no": 2,
+    "Item": "salt & sugar: sub-total",
+    "item\ncode": "179",
+    "quantity and value of the item consumed during last 30 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 1,
+    "Section 6.1 :Consumption of milk & milk productsduring the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 28,
+    "table_no": 1,
+    "Section 6.1 :Consumption of milk & milk productsduring the last 7 days": "Q6.1"
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "milk: liquid (litre)",
+    "item\ncode": "160",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "milk: condensed/\npowder",
+    "item\ncode": "162",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "ghee",
+    "item\ncode": "164",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "curd, yogurt",
+    "item\ncode": "163",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "butter",
+    "item\ncode": "165",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "ice-cream",
+    "item\ncode": "166",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "paneer",
+    "item\ncode": "003",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "prepared sweets",
+    "item\ncode": "004",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "cheese (gm)",
+    "item\ncode": "005",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "other milk products&\n(lassi, butter milk,\nothers)",
+    "item\ncode": "092",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 28,
+    "table_no": 2,
+    "Item": "milk & milk products:\nsub-total",
+    "item\ncode": "169",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 1,
+    "Section 6.2: Consumption of vegetables during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 29,
+    "table_no": 1,
+    "Section 6.2: Consumption of vegetables during the last 7 days": "Q6.2"
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": null,
+    "item code": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": null,
+    "item code": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "(1)",
+    "item code": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "onion",
+    "item code": "201",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "potato",
+    "item code": "200",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "tomato",
+    "item code": "202",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "palak/other leafy\nvegetables",
+    "item code": "206",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "brinjal",
+    "item code": "203",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "lady's finger",
+    "item code": "208",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "green chillies",
+    "item code": "207",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "cauliflower",
+    "item code": "211",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "gourd, pumpkin",
+    "item code": "213",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "cabbage",
+    "item code": "212",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "parwal/patal,\nkundru",
+    "item code": "210",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "beans, barbati",
+    "item code": "215",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "Peas",
+    "item code": "214",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "carrot",
+    "item code": "205",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "radish",
+    "item code": "204",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "lemon (no.)",
+    "item code": "216",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "other vegetables",
+    "item code": "217",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 29,
+    "table_no": 2,
+    "item": "vegetables: sub-\ntotal",
+    "item code": "219",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 1,
+    "Section 6.3: Consumption of fruits (fresh) during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 30,
+    "table_no": 1,
+    "Section 6.3: Consumption of fruits (fresh) during the last 7 days": "Q6.3"
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "banana (no.)",
+    "item\ncode": "220",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "apple",
+    "item\ncode": "236",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "coconut (no.)",
+    "item\ncode": "224",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "mango",
+    "item\ncode": "231",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "grapes",
+    "item\ncode": "237",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "green coconut (no.)",
+    "item\ncode": "225",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "guava",
+    "item\ncode": "226",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "papaya",
+    "item\ncode": "230",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "orange, sweet\nlime(mausami) (no.)",
+    "item\ncode": "228",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "watermelon",
+    "item\ncode": "222",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "kharbooza",
+    "item\ncode": "232",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "other fresh fruits&\n(litchi,\npears/nashpati,\nsingara, jackfruit,\nberries, pineapple,\nothers)",
+    "item\ncode": "093",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 30,
+    "table_no": 2,
+    "item": "fruits (fresh): sub-\ntotal",
+    "item\ncode": "239",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 1,
+    "Section 6.4: Consumption of fruits (dry) during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 31,
+    "table_no": 1,
+    "Section 6.4: Consumption of fruits (dry) during the last 7 days": "Q6.4"
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "coconut: copra",
+    "item\ncode": "240",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "groundnut",
+    "item\ncode": "241",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "cashew nut",
+    "item\ncode": "243",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "dates",
+    "item\ncode": "242",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "other nuts (almond,\npistachio, walnut,\nhazelnut, etc.)",
+    "item\ncode": "245",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "raisin(kishmish),\nmonacca, etc.",
+    "item\ncode": "246",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "other dry fruits&\n(apricot, dry fig:anjeer,\nothers)",
+    "item\ncode": "094",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 31,
+    "table_no": 2,
+    "item": "fruits (dry): sub-total",
+    "item\ncode": "249",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 1,
+    "Section 6.5: Consumption of egg, fish & meat during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 32,
+    "table_no": 1,
+    "Section 6.5: Consumption of egg, fish & meat during the last 7 days": "Q6.5"
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "eggs (no.)",
+    "item\ncode": "190",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "chicken",
+    "item\ncode": "195",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "fish, prawn",
+    "item\ncode": "191",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "goat meat/\nmutton",
+    "item\ncode": "192",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "beef/ buffalo meat",
+    "item\ncode": "193",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "pork",
+    "item\ncode": "194",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "others: birds, crab,\noyster, etc.",
+    "item\ncode": "196",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 32,
+    "table_no": 2,
+    "item": "egg, fish &meat:\nsub-total",
+    "item\ncode": "199",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 1,
+    "Section 6.6: Consumption of edible oilduring the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 33,
+    "table_no": 1,
+    "Section 6.6: Consumption of edible oilduring the last 7 days": "Q6.6"
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "mustard oil",
+    "item\ncode": "181",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "refined oil [sunflower,\nsoyabean, palm oil,\nvegetable oil, etc.]",
+    "item\ncode": "184",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "groundnut oil",
+    "item\ncode": "182",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "coconut oil",
+    "item\ncode": "183",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "edible oil - PDS",
+    "item\ncode": "188",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "edible oil: others&\n(vanaspati, margarine,\nothers)",
+    "item\ncode": "095",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "edible oil- free$",
+    "item\ncode": "075",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 33,
+    "table_no": 2,
+    "item": "edible oil: sub-total",
+    "item\ncode": "189",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 1,
+    "Section 6.7: Consumption of spices during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 34,
+    "table_no": 1,
+    "Section 6.7: Consumption of spices during the last 7 days": "Q 6.7"
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity\n(0.000)"
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "dry chillies (gm)",
+    "item\ncode": "256",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "turmeric (gm)",
+    "item\ncode": "254",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "cumin (jeera (gm))",
+    "item\ncode": "252",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "coriander (dhania\n(gm))",
+    "item\ncode": "253",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "garlic (gm)",
+    "item\ncode": "251",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "ginger (gm)",
+    "item\ncode": "250",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "curry powder (gm)",
+    "item\ncode": "258",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "black pepper (gm)",
+    "item\ncode": "255",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "tamarind (gm)",
+    "item\ncode": "257",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "oilseeds (gm)",
+    "item\ncode": "260",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "poppy seeds (gm)",
+    "item\ncode": "263",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "other spices (gm)",
+    "item\ncode": "261",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 34,
+    "table_no": 2,
+    "item": "spices: sub-total",
+    "item\ncode": "269",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 1,
+    "Section 6.8: Consumption of beverages during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 35,
+    "table_no": 1,
+    "Section 6.8: Consumption of beverages during the last 7 days": "Q6.8"
+  },
+  {
+    "page_no": 35,
+    "table_no": 1,
+    "Section 6.8: Consumption of beverages during the last 7 days": "Go to Section 7"
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "consumption out of home\nproduce"
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last 7 days": "quantity*\n(0.000)"
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "tea: cups (no.)",
+    "item\ncode": "270",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "tea: leaf (gm)",
+    "item\ncode": "271",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "coffee: cups (no.)",
+    "item\ncode": "272",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "coffee: powder (gm)",
+    "item\ncode": "273",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "mineral water (litre)",
+    "item\ncode": "274",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "soda drinks (litre)",
+    "item\ncode": "011",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "other cold beverages:\nbottled/canned (litre)",
+    "item\ncode": "275",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "fruit juice and shake,\nsugarcane/ date-palm\njuice, etc.",
+    "item\ncode": "276",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "other beverages: cocoa,\ndrinking chocolate, health\ndrinks, etc.",
+    "item\ncode": "278",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 35,
+    "table_no": 2,
+    "item": "beverages: sub-total",
+    "item\ncode": "279",
+    "quantity and value of the item consumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 1,
+    "Section 7.1: Consumption of served processed food during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 36,
+    "table_no": 1,
+    "Section 7.1: Consumption of served processed food during the last 7 days": "Q7.1"
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": "total consumption"
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": "quantity (0.000)"
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": "(3)"
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "cooked meals purchased at subsidized rate (no.)",
+    "item\ncode": "076",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "cooked meals purchased (no.)",
+    "item\ncode": "280",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "cooked meals received free in workplace$ (no.)",
+    "item\ncode": "281",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "cooked meals received as assistance$(no.)",
+    "item\ncode": "282",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "cooked snacks purchased [samosa, puri, paratha,\nmomo, roll, chowmein, idli, dosa, vada, chops,\npakoras, pav-bhaji, vada-pao, etc.]",
+    "item\ncode": "283",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "other served processed food**",
+    "item\ncode": "284",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 36,
+    "table_no": 2,
+    "Item": "served processed food: sub-total",
+    "item\ncode": "289",
+    "quantity and value of the item purchased and/or\nconsumed during last 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 1,
+    "Section 7.2: Consumption of packaged processed food during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 37,
+    "table_no": 1,
+    "Section 7.2: Consumption of packaged processed food during the last 7 days": "Q7.2"
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "total consumption"
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "quantity (0.000)"
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)"
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "breakfast cereals (oats, cornflakes, muesli etc.)",
+    "item\ncode": "012",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "baby food",
+    "item\ncode": "161",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "cake, pastry",
+    "item\ncode": "290",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "Biscuits",
+    "item\ncode": "013",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "chocolates, etc.",
+    "item\ncode": "291",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "papad, bhujia, namkeen, mixture, chanachur",
+    "item\ncode": "292",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "chips , nachos, puffs, wafers, etc.",
+    "item\ncode": "293",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "pickles",
+    "item\ncode": "294",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "sauce, jam, jelly, mayonnaise (gm)",
+    "item\ncode": "295",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "bread (bakery)",
+    "item\ncode": "113",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "health supplements (protein powder, probiotic\ntablet and drinks, chawanprash, etc.)",
+    "item\ncode": "014",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "noodles (cup noodles, rice noodles, etc.)",
+    "item\ncode": "015",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "other packaged processed food (poha, other ready\nto eat meal, etc.)",
+    "item\ncode": "296",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 37,
+    "table_no": 2,
+    "Item": "packaged processed food: sub-total",
+    "item\ncode": "299",
+    "quantity and value of the item consumed during\nlast 7 days": null
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "S. No."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": null
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "(1)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "1."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "2."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "3."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "4."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": null
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "5."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "6."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "7."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "8."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "9."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "10."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "11."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "12."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "13."
+  },
+  {
+    "page_no": 38,
+    "table_no": 1,
+    "Section A1: Summary information of item collected in Questionnaire - FDQ": "14."
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.2",
+    "Mobile number of the informant": "Alternate mobile number, if any"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.3",
+    "Mobile number of the informant": "Landline number of the household"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.4",
+    "Mobile number of the informant": "Time taken to canvass the Questionnaire – FDQ(in minutes)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.5",
+    "Mobile number of the informant": "Household’s usual consumption expenditure in a month (in Rs.)\n(to be used only for cross validation of the data)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.6",
+    "Mobile number of the informant": "Total expenditure incurred on online purchase/payment offood\nitemsduring the last 30 days (in Rs.)"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.7",
+    "Mobile number of the informant": "Name of the informant\n(Instruction: A pop-up with the details of household members as listed in Block 3/3A, Cols.1 & 2 will\nappear along with an option ‘not a household member’. ‘Srl. no .99 will be provided against non-\nhousehold member’, if he/she is the respondent. The enumerator should select the ‘informant’ from that\nlist)\nSrl. no. of the household Name Select the informant\nmember\no\no\n99 not a household member o"
+  },
+  {
+    "page_no": 38,
+    "table_no": 2,
+    "QA2.1": "QA2.8",
+    "Mobile number of the informant": "Response code of the informant as assessed by SE/JSO"
+  },
+  {
+    "page_no": 38,
+    "table_no": 3,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 38,
+    "table_no": 3,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 38,
+    "table_no": 3,
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 39,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Question\nno."
+  },
+  {
+    "page_no": 39,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.0"
+  },
+  {
+    "page_no": 39,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.1"
+  },
+  {
+    "page_no": 39,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.2"
+  },
+  {
+    "page_no": 39,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.3"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Question\nno."
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.4"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.6"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.7"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.8"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.9"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": "Q4.2.10"
+  },
+  {
+    "page_no": 40,
+    "table_no": 1,
+    "Section 4.2: General information on purchase/payment": " Go to Section 8"
+  },
+  {
+    "page_no": 40,
+    "table_no": 2,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check\nbox if received free of\ncost during last 365 days": "(3)",
+    "total no. of item\nreceived free of cost\n(number)": "(4)"
+  },
+  {
+    "page_no": 40,
+    "table_no": 2,
+    "S. No.": "1.",
+    "item category": "Textbooks",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item\nreceived free of cost\n(number)": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 2,
+    "S. No.": "2.",
+    "item category": "Stationary (geometry box, pen,\nnotepad, etc.)",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item\nreceived free of cost\n(number)": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 2,
+    "S. No.": "3.",
+    "item category": "School bag",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item\nreceived free of cost\n(number)": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 2,
+    "S. No.": "4.",
+    "item category": "Other, if any",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item\nreceived free of cost\n(number)": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 4,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": "(3)"
+  },
+  {
+    "page_no": 40,
+    "table_no": 4,
+    "S. No.": "1.",
+    "item category": "Fuel & light",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 4,
+    "S. No.": "2.",
+    "item category": "Toilet articles& other household consumables",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 4,
+    "S. No.": "3.",
+    "item category": "Education",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 4,
+    "S. No.": "4.",
+    "item category": "Medicine&other medical services",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": null
+  },
+  {
+    "page_no": 40,
+    "table_no": 4,
+    "S. No.": "5.",
+    "item category": "Services (Travel, Recharges, Bill payment,\nCinema/Theatre, internet, etc.)",
+    "please select the check box if online\npurchase/payment done during last 30\ndays": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 1,
+    "Section 8.1: Consumption of energy (fuel &light) during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 41,
+    "table_no": 1,
+    "Section 8.1: Consumption of energy (fuel &light) during the last 30 days": "Q8.1"
+  },
+  {
+    "page_no": 41,
+    "table_no": 1,
+    "Section 8.1: Consumption of energy (fuel &light) during the last 30 days": "Go to Section 9"
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last\n30 days": "consumption out of\nhome produce"
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during last\n30 days": "quantity\n(0.000)"
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during last\n30 days": "(3)"
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "electricity (std. unit)",
+    "item\ncode": "332",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "®\nLPG [excl. conveyance]",
+    "item\ncode": "338",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "firewood and chips",
+    "item\ncode": "331",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "kerosene – PDS (litre)",
+    "item\ncode": "334",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "kerosene – other sources (litre)",
+    "item\ncode": "335",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "other fuel&(charcoal, biogas, gobar gas, coal,\ndung cake, petrol (litre) [excl. conveyance],\ndiesel (litre) [excl. conveyance], other natural\ngas^ (CNG, etc.), matches (box), candle (no.),\netc.)",
+    "item\ncode": "096",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 41,
+    "table_no": 2,
+    "item": "fuel and light: sub-total",
+    "item\ncode": "349",
+    "quantity and value of the item consumed during last\n30 days": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 1,
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 42,
+    "table_no": 1,
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Q9.1"
+  },
+  {
+    "page_no": 42,
+    "table_no": 1,
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Section 9.2: Expenditure on other household consumables during the last 30 days"
+  },
+  {
+    "page_no": 42,
+    "table_no": 1,
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 42,
+    "table_no": 1,
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Q9.2"
+  },
+  {
+    "page_no": 42,
+    "table_no": 1,
+    "Section 9.1: Expenditure on toilet articles during the last 30 days": "Go to Section 10"
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "toilet soap, body-wash, hand-wash, shower gel, face-wash",
+    "item\ncode": "450",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "sanitizer",
+    "item\ncode": "016",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "toothpaste, mouthwash, toothbrush, etc.",
+    "item\ncode": "451",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "shampoo, conditioner, hair serum/gel, hair cream",
+    "item\ncode": "453",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "hair oil, hair colour",
+    "item\ncode": "017",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "other hair products, accessories, comb, etc.",
+    "item\ncode": "018",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "powder, cream, body lotion, moisturizers",
+    "item\ncode": "452",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "other beauty products: lipstick, nail polish, compact & foundation, eye make-\nup kit (kajal/surma, mascara, shadow, liner, etc.), etc.",
+    "item\ncode": "020",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "perfume, body spray, deodorant, roll-ons, etc.",
+    "item\ncode": "021",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "sanitary napkins",
+    "item\ncode": "456",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "baby products (diapers, lotion, powder, etc.)",
+    "item\ncode": "022",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "shaving blades, shaving stick, razor",
+    "item\ncode": "454",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "shaving cream, shaving foam, aftershave lotion, aftershave balm",
+    "item\ncode": "455",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "other toilet articles (body oil, make-up brushes, etc.)",
+    "item\ncode": "457",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 2,
+    "Item": "toilet articles: sub-total",
+    "item\ncode": "459",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "washing soap/soda/powder/liquid detergent",
+    "item\ncode": "466",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "other washing requisites",
+    "item\ncode": "467",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "floor cleaner, acid, toilet cleaner",
+    "item\ncode": "465",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "mosquito repellent, insecticide, anti-rodent, etc.",
+    "item\ncode": "471",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "bucket & other plastic goods",
+    "item\ncode": "464",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "incense (agarbatti), room freshener",
+    "item\ncode": "468",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "flower (fresh): all purposes",
+    "item\ncode": "470",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "LED bulb, CFL bulbs",
+    "item\ncode": "023",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "other electric bulb, tubelight, decorative lights",
+    "item\ncode": "460",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "earthenware, paperware, thermocol plates, etc.",
+    "item\ncode": "462",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "electric batteries",
+    "item\ncode": "461",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "glassware",
+    "item\ncode": "463",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "other petty articles like coir, rope, door mat, non-durable electric goods, etc.",
+    "item\ncode": "472",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 42,
+    "table_no": 3,
+    "Item": "other household consumables: sub-total",
+    "item\ncode": "479",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Q10.1"
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Section 10.2: Expenditure on medical (hospitalisation) during the last 365 days"
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Q10.2"
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Section 10.3: Expenditure on medical (non-hospitalisation) during the last 30 days"
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Q10.3"
+  },
+  {
+    "page_no": 43,
+    "table_no": 1,
+    "Section 10.1: Expenditure on education during the last 365 days": "Go to Section 11"
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "tuition and other fees (school, college, etc.)",
+    "item\ncode": "405",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "private tutor/ coaching centre",
+    "item\ncode": "406",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "books, journals(incl. e-books, audio books): first hand",
+    "item\ncode": "400",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "books, journals, etc.: second hand",
+    "item\ncode": "401",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "stationery, photocopying charges",
+    "item\ncode": "404",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "other educational expenses (incl. fees for enrolment in web-based training,\nlibrary charges, educational CD, etc.)",
+    "item\ncode": "408",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 2,
+    "item": "education: sub-total",
+    "item\ncode": "409",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "(1)",
+    "item code": "(2)",
+    "value (Rs.)": "(3)"
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "medicine",
+    "item code": "410",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "doctor's/surgeon's fee",
+    "item code": "412",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "X-ray, ECG, pathological test, etc.",
+    "item code": "411",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "hospital & nursing home charges",
+    "item code": "413",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "other medical expenses",
+    "item code": "414",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 3,
+    "item": "medical - hospitalisation: sub-total",
+    "item code": "419",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "medicine",
+    "item\ncode": "420",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "doctor's/surgeon's fee",
+    "item\ncode": "422",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "X-ray, ECG, pathological test, etc.",
+    "item\ncode": "421",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "family planning devices",
+    "item\ncode": "423",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "other medical expenses",
+    "item\ncode": "424",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 43,
+    "table_no": 4,
+    "item": "medical –non- hospitalisation: sub-total",
+    "item\ncode": "429",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 1,
+    "Section 11.1: Expenditure on conveyance during the last 30 days": "Question\nno."
+  },
+  {
+    "page_no": 44,
+    "table_no": 1,
+    "Section 11.1: Expenditure on conveyance during the last 30 days": "Q11.1"
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "expenditure": "during last 30"
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "expenditure": "days (Rs.)"
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "expenditure": "(3)"
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "railway fare",
+    "item\ncode": "024",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "bus fare for school, college, etc.: periodic (lumpsum) payment",
+    "item\ncode": "504",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "bus fare for commuting to work.: periodic (lumpsum) payment",
+    "item\ncode": "025",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "bus /tram fare for school, college: daily (miscellaneous) payments",
+    "item\ncode": "506",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "bus/tram fare for commuting to work: daily (miscellaneous) payments",
+    "item\ncode": "505",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "bus/tramfare: occasional",
+    "item\ncode": "500",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "taxi fare",
+    "item\ncode": "508",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "auto-rickshaw/e-rickshaw fare",
+    "item\ncode": "501",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "car/bus hired for ceremonial occasion, picnic, etc.",
+    "item\ncode": "510",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "steamer, boat fare",
+    "item\ncode": "026",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "rickshaw (hand-drawn & cycle) fare",
+    "item\ncode": "511",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "air fare",
+    "item\ncode": "503",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "petrol for vehicle",
+    "item\ncode": "512",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "diesel for vehicle",
+    "item\ncode": "513",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "other conveyance expenses",
+    "item\ncode": "514",
+    "expenditure": null
+  },
+  {
+    "page_no": 44,
+    "table_no": 2,
+    "Item": "conveyance: sub-total",
+    "item\ncode": "519",
+    "expenditure": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 1,
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Question\nno."
+  },
+  {
+    "page_no": 45,
+    "table_no": 1,
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Q11.2"
+  },
+  {
+    "page_no": 45,
+    "table_no": 1,
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Section 11.3: Expenditure on entertainment during the last 30 days"
+  },
+  {
+    "page_no": 45,
+    "table_no": 1,
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Question\nno."
+  },
+  {
+    "page_no": 45,
+    "table_no": 1,
+    "Section 11.2: Expenditure on consumer services (excluding conveyance)during the last\n30 days": "Q11.3"
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "telephone charges: mobile*(incl. data charges if not separable)",
+    "item\ncode": "488",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "telephone charges: landline* (incl. broadband charges if not separable)",
+    "item\ncode": "487",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "internet expenses (cable broadband, mobile data charges, etc. if separable)",
+    "item\ncode": "496",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "water charges*",
+    "item\ncode": "540",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "barber, beautician, spas, etc.",
+    "item\ncode": "483",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "domestic helper/cook",
+    "item\ncode": "480",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "washerman, laundry, ironing, dry cleaning, dyeing of clothes",
+    "item\ncode": "484",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "sweeper",
+    "item\ncode": "482",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "attendant, babysitter",
+    "item\ncode": "481",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "watchmen/security guard, driver",
+    "item\ncode": "027",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "tailor",
+    "item\ncode": "485",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "grinding/husking charges, etc.",
+    "item\ncode": "486",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "priest",
+    "item\ncode": "492",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "pet animals (incl. birds, fish)",
+    "item\ncode": "495",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "repair charges for non-durables (electrician’s charges, plumbing charges, etc.)",
+    "item\ncode": "494",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "legal expenses",
+    "item\ncode": "493",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "postage, couriers, fax& money order",
+    "item\ncode": "490",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "other consumer services excluding conveyance (car parking charges, coolie/porter\ncharges, toll charges, miscellaneous expenses, etc.)",
+    "item\ncode": "497",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 2,
+    "item": "consumer services excluding conveyance: sub-total",
+    "item\ncode": "499",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "cable TV/DTH/set top box (incl. broadband charges if not separable)",
+    "item\ncode": "437",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "cinema, theatre",
+    "item\ncode": "430",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "newspapers, periodicals",
+    "item\ncode": "402",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "photography",
+    "item\ncode": "435",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "club, gym, swimming fees& other subscriptions",
+    "item\ncode": "433",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "online media service provider/streaming services",
+    "item\ncode": "028",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "other entertainment (mela, fair, picnic, VCD/DVD hire, etc.)",
+    "item\ncode": "438",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 45,
+    "table_no": 3,
+    "item": "entertainment: sub-total",
+    "item\ncode": "439",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 1,
+    "Section 11.4: Expenditure on rent during the last 30 days and other taxes & cesses\nduring the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 46,
+    "table_no": 1,
+    "Section 11.4: Expenditure on rent during the last 30 days and other taxes & cesses\nduring the last 365 days": "Q11.4"
+  },
+  {
+    "page_no": 46,
+    "table_no": 1,
+    "Section 11.4: Expenditure on rent during the last 30 days and other taxes & cesses\nduring the last 365 days": "Go to Section 12"
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "(1)",
+    "item code": "(2)",
+    "value (Rs.)": "(3)"
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "house rent, garage rent (actual)*",
+    "item code": "520",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "hotel lodging charges",
+    "item code": "521",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "residential land rent*",
+    "item code": "522",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "other consumer rent",
+    "item code": "523",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "rent: sub-total",
+    "item code": "529",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "house rent, garage rent (imputed)#",
+    "item code": "539",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 46,
+    "table_no": 2,
+    "item": "other consumer taxes & cesses",
+    "item code": "899",
+    "value (Rs.)": null
+  },
+  {
+    "page_no": 47,
+    "table_no": 1,
+    "Section 12.1: Consumption of pan during the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 47,
+    "table_no": 1,
+    "Section 12.1: Consumption of pan during the last 7 days": "Q12.1"
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "consumption out of\nhome produce",
+    "source#": null
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "quantity*\n(0.000)",
+    "source#": null
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)",
+    "source#": "(7)"
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": "pan: leaf (no.)",
+    "item\ncode": "300",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": "pan: finished (no.)",
+    "item\ncode": "301",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": "@"
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": "ingredients for pan (gm)",
+    "item\ncode": "302",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 47,
+    "table_no": 2,
+    "item": "pan: sub-total",
+    "item\ncode": "309",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 1,
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 48,
+    "table_no": 1,
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Q12.2"
+  },
+  {
+    "page_no": 48,
+    "table_no": 1,
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Section 12.3: Consumption of intoxicants during the last 7 days"
+  },
+  {
+    "page_no": 48,
+    "table_no": 1,
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Question\nno."
+  },
+  {
+    "page_no": 48,
+    "table_no": 1,
+    "Section 12.2: Consumption of tobaccoduring the last 7 days": "Q12.3"
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "consumption out of\nhome produce",
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "quantity*\n(0.000)",
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)",
+    "source#": "(7)"
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "bidi (no.)",
+    "item\ncode": "310",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "cigarettes (no.)",
+    "item\ncode": "311",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "gutka, zarda, kimam, surti (gm)",
+    "item\ncode": "316",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "leaf tobacco (gm)",
+    "item\ncode": "312",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "hookah tobacco (gm)",
+    "item\ncode": "314",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "cheroot (no.)",
+    "item\ncode": "315",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "snuff (gm)",
+    "item\ncode": "313",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "other tobacco products",
+    "item\ncode": "317",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 2,
+    "item": "tobacco: sub-total",
+    "item\ncode": "319",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "consumption out of\nhome produce",
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item consumed during\nlast 7 days": "quantity*\n(0.000)",
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item consumed during\nlast 7 days": "(3)",
+    "source#": "(7)"
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "country liquor (litre)",
+    "item\ncode": "322",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": "@"
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "foreign/refined liquor or wine\n(litre)",
+    "item\ncode": "324",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": "@"
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "beer (litre)",
+    "item\ncode": "323",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": "@"
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "toddy (litre)",
+    "item\ncode": "321",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "ganja (gm)",
+    "item\ncode": "320",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "other intoxicants",
+    "item\ncode": "325",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 48,
+    "table_no": 3,
+    "item": "intoxicants: sub-total",
+    "item\ncode": "329",
+    "quantity and value of the item consumed during\nlast 7 days": null,
+    "source#": null
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "S. No."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": null
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "(1)"
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "1."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "2."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "3."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": null
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "4."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "5."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": null
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "6."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "7."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "8."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "9."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "10."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "11."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": null
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "12."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": null
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "13."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "14."
+  },
+  {
+    "page_no": 49,
+    "table_no": 1,
+    "Section B1 : Summary information of item collected in Questionnaire - CSQ": "15."
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.2",
+    "Mobile number of the informant": "Alternate mobile number, if any"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.3",
+    "Mobile number of the informant": "Landline number of the household"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.4",
+    "Mobile number of the informant": "Time taken to canvass the Questionnaire - CSQ\n(in minutes)"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.5",
+    "Mobile number of the informant": "Household’s usual consumption expenditure in a month (in Rs.)\n(to be used only for cross validation of the data)"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.6",
+    "Mobile number of the informant": "Total expenditure incurred on online purchase/payment of\nconsumables & services during the last 30 days (in Rs.)"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.7",
+    "Mobile number of the informant": "Name of the informant\n(Instruction: A pop-up with the details of household members as listed in Block 3/3A, Cols.1 & 2 will\nappear along with an option ‘not a household member’. ‘Srl. no .99 will be provided against non-\nhousehold member’, if he/she is the respondent. The enumerator should select the ‘informant’ from that\nlist)\nSrl. no. of the household Name Select the informant\nmember\no\no\n99 not a household member o"
+  },
+  {
+    "page_no": 50,
+    "table_no": 1,
+    "QB2.1": "QB2.8",
+    "Mobile number of the informant": "Response code of the informant as assessed by SE/JSO"
+  },
+  {
+    "page_no": 50,
+    "table_no": 2,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 50,
+    "table_no": 2,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 50,
+    "table_no": 2,
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 51,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": "Question\nno."
+  },
+  {
+    "page_no": 51,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": "Q4.3.1"
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if\npurchased online during last\n365 days": "(3)"
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "1.",
+    "item category": "Clothing",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "2.",
+    "item category": "Footwear",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "3.",
+    "item category": "Furniture & fixtures",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "4.",
+    "item category": "Mobile handset",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "5.",
+    "item category": "Personal goods (laptop/PC, tablet, clock, watch, spectacles, contact\nlenses, etc.)",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "6.",
+    "item category": "Goods for recreation (TV, camera, pen-drive, musical instruments,\netc.)",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "7.",
+    "item category": "Cooking& other household appliances",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "8.",
+    "item category": "Crockery & utensils",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "9.",
+    "item category": "Sports goods",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "10.",
+    "item category": "Medical equipment",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 51,
+    "table_no": 2,
+    "S. No.": "11.",
+    "item category": "Bedding (bedsheet, curtain, mattress, etc.)",
+    "please select the check box if\npurchased online during last\n365 days": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": "Question\nno."
+  },
+  {
+    "page_no": 52,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": "Q4.3.2"
+  },
+  {
+    "page_no": 52,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": "Q4.3.3"
+  },
+  {
+    "page_no": 52,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": "Q4.3.4"
+  },
+  {
+    "page_no": 52,
+    "table_no": 1,
+    "Section 4.3: General information on purchase/payment": " Go to Section 13"
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check\nbox if received free of\ncost during last 365 days": "(3)",
+    "total no. of item received\nfree of cost(no.)": "(4)"
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "1.",
+    "item category": "Laptop/PC",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "2.",
+    "item category": "Tablet",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "3.",
+    "item category": "Mobile handset",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "4.",
+    "item category": "Bicycle",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "5.",
+    "item category": "Motorcycle/scooty",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "6.",
+    "item category": "Clothing (School uniform, etc.)",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "7.",
+    "item category": "Footwear (School shoe, etc.)",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 2,
+    "S. No.": "8.",
+    "item category": "Others",
+    "please select the check\nbox if received free of\ncost during last 365 days": null,
+    "total no. of item received\nfree of cost(no.)": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "(1)",
+    "item category": "(2)",
+    "please select the check box if\npossessed as on the date of\nsurvey": "(3)"
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "1.",
+    "item category": "Television",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "2.",
+    "item category": "Radio",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "3.",
+    "item category": "Laptop/PC",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "4.",
+    "item category": "Mobile handset",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "5.",
+    "item category": "Bicycle",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "6.",
+    "item category": "Motorcycle, scooter",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "7.",
+    "item category": "Motor car/jeep/van",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "8.",
+    "item category": "Trucks",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "9.",
+    "item category": "Animal cart",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "10.",
+    "item category": "Refrigerator",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "11.",
+    "item category": "Washing machine",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 52,
+    "table_no": 3,
+    "S. No.": "12.",
+    "item category": "Air conditioner/air cooler",
+    "please select the check box if\npossessed as on the date of\nsurvey": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 1,
+    "Section 13.1: Expenditure for clothing during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 53,
+    "table_no": 1,
+    "Section 13.1: Expenditure for clothing during the last 365 days": "Q13.1"
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": null,
+    "item\ncode": null,
+    "quantity and value of the item procured\nduring last 365 days": "quantity (0.00)"
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item procured\nduring last 365 days": "(3)"
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "clothing: first-hand",
+    "item\ncode": null,
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "saree (no.)",
+    "item\ncode": "351",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "cloth for shirt, pyjama, kurta, salwar, etc. (metre)",
+    "item\ncode": "352",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "cloth for coat, trousers, suit, etc. (metre)",
+    "item\ncode": "353",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "face mask, gloves",
+    "item\ncode": "030",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "T-shirts, polos, tops, shrugs (no.)",
+    "item\ncode": "363",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "shirts (no.)",
+    "item\ncode": "031",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "trousers, jeans, jeggings, skirts (no.)",
+    "item\ncode": "364",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "coat, jacket, blazer, sweater, sweatshirts, windcheater\n(no.)",
+    "item\ncode": "354",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "western suit set (no.)",
+    "item\ncode": "032",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "kurta-pajama suits: males (no.)",
+    "item\ncode": "358",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "kurta-pajama suits: females (no.)",
+    "item\ncode": "360",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "school/college uniform: boys",
+    "item\ncode": "356",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "school/college uniform: girls",
+    "item\ncode": "357",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "sherwani, lenhnga, gown (no.)",
+    "item\ncode": "033",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "kurta, kameez, kurti(no.)",
+    "item\ncode": "361",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "pajamas, salwar, leggings, plazzo(no.)",
+    "item\ncode": "362",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "dresses, jumpsuits, frocks (no.)",
+    "item\ncode": "365",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "track suit, track pant, joggers(no.)",
+    "item\ncode": "034",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "shorts, bermuda, maxis, housecoats, baba suit,\nnightdress, loungewear, etc.",
+    "item\ncode": "368",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "shawl, chaddar (no.)",
+    "item\ncode": "355",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "blouse, dupatta/stole (no.)",
+    "item\ncode": "366",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "lungi(no.)",
+    "item\ncode": "367",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "innerwear, socks, and other hosiery items(no.)",
+    "item\ncode": "370",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "dhoti (no.)",
+    "item\ncode": "350",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "gamchha, towel, handkerchief (no.)",
+    "item\ncode": "371",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "headwear, belts, ties, hat, scarf, muffler, etc. (no.)",
+    "item\ncode": "373",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "infant clothing",
+    "item\ncode": "372",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "clothing (first-hand): other (incl. knitting wool)",
+    "item\ncode": "374",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "clothing: second-hand",
+    "item\ncode": "375",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 53,
+    "table_no": 2,
+    "Item": "clothing: sub-total",
+    "item\ncode": "379",
+    "quantity and value of the item procured\nduring last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 1,
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 54,
+    "table_no": 1,
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Q13.2"
+  },
+  {
+    "page_no": 54,
+    "table_no": 1,
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Section 13.3: Expenditure for bedding during the last 365 days"
+  },
+  {
+    "page_no": 54,
+    "table_no": 1,
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 54,
+    "table_no": 1,
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Q13.3"
+  },
+  {
+    "page_no": 54,
+    "table_no": 1,
+    "Section13.2: Expenditure forfootwearduring the last 365 days": "Go to Section 14"
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item\nprocured during last 365 days": "no. of pairs"
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item\nprocured during last 365 days": "(3)"
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "rubber / PVC footwear",
+    "item\ncode": "393",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "leather boots, shoes",
+    "item\ncode": "390",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "leather sandals, chappals, etc.",
+    "item\ncode": "391",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "other leather footwear",
+    "item\ncode": "392",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "other footwear",
+    "item\ncode": "394",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "footwear: second-hand",
+    "item\ncode": "395",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 2,
+    "item": "footwear: sub-total",
+    "item\ncode": "399",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": null,
+    "item\ncode": null,
+    "quantity and value of the item\nprocured during last 365 days": "quantity (0.00)"
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "quantity and value of the item\nprocured during last 365 days": "(3)"
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "bed sheet, bed cover (no.)",
+    "item\ncode": "380",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "rug, blanket (no.)",
+    "item\ncode": "381",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "quilt, mattress (no.)",
+    "item\ncode": "383",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "pillow, cushion(no.)",
+    "item\ncode": "382",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "mosquito net (no.)",
+    "item\ncode": "385",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "cloth for upholstery, curtains, tablecloth, etc. (metre)",
+    "item\ncode": "384",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "bedding: others",
+    "item\ncode": "386",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 54,
+    "table_no": 3,
+    "item": "bedding, etc.: sub-total",
+    "item\ncode": "389",
+    "quantity and value of the item\nprocured during last 365 days": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 1,
+    "Section 14.1: Expenditure for purchase (including repair & maintenance)ofpersonal\ngoods for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 55,
+    "table_no": 1,
+    "Section 14.1: Expenditure for purchase (including repair & maintenance)ofpersonal\ngoods for domestic use during the last 365 days": "Q14.1"
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "spectacles/goggles, contact\nlenses",
+    "item\ncode": "440",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "umbrella, raincoat, helmet",
+    "item\ncode": "441",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "other minor durable-type\ngoods (like torch, lock,\nlighter,etc.)",
+    "item\ncode": "442",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "mobile handset",
+    "item\ncode": "623",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "telephone instrument\n(landline)",
+    "item\ncode": "624",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "PC/ Laptop/ tablet, other\nperipherals incl. software",
+    "item\ncode": "622",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "clock, watch, smartwatch,\nfitness tracker",
+    "item\ncode": "620",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "back-pack, handbags,\nvanity bags, purse, clutch,\netc.",
+    "item\ncode": "554",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "headphone, earphone, ear\npod,airpod, bluetooth\ndevices/speakers etc.",
+    "item\ncode": "035",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "other machines for\nhousehold work",
+    "item\ncode": "621",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "any other personal\ngoods(power banks, hair\ndryers,\nstraightener/curler,trimmer,\ngroomer, epilator, etc.)",
+    "item\ncode": "625",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 55,
+    "table_no": 2,
+    "item": "other personal goods:\nsub-total",
+    "item\ncode": "629",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 1,
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 56,
+    "table_no": 1,
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Q14.2"
+  },
+  {
+    "page_no": 56,
+    "table_no": 1,
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Section 14.3: Expenditure for purchase (including repair & maintenance)of sports goods\nfor domestic use during the last 365 days"
+  },
+  {
+    "page_no": 56,
+    "table_no": 1,
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 56,
+    "table_no": 1,
+    "Section 14.2: Expenditure for purchase (including repair & maintenance)of transport\nequipment for domestic use during the last 365 days": "Q14.3"
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurchased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "motor cycle, scooter",
+    "item\ncode": "601",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "motor car, jeep",
+    "item\ncode": "602",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "bicycle",
+    "item\ncode": "600",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "tyres & tubes",
+    "item\ncode": "603",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "other transport equipment",
+    "item\ncode": "604",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 2,
+    "item": "personal transport\nequipment: sub-total",
+    "item\ncode": "609",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurchased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": "exercise equipment:\ntreadmill, fitness cycle,\netc.",
+    "item\ncode": "036",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": "weighing machine",
+    "item\ncode": "037",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": "sportsgoods\n(badminton racket,\nshuttle cock, football,\ncricket bat, etc.)&toys",
+    "item\ncode": "432",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": "other sports goods",
+    "item\ncode": "097",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 56,
+    "table_no": 3,
+    "item": "sports goods: sub-\ntotal",
+    "item\ncode": "099",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 1,
+    "Section 14.4: Expenditure for purchase (including repair & maintenance)of medical\nequipment for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 57,
+    "table_no": 1,
+    "Section 14.4: Expenditure for purchase (including repair & maintenance)of medical\nequipment for domestic use during the last 365 days": "Q14.4"
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurchased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "wheelchair",
+    "item\ncode": "040",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "massagers",
+    "item\ncode": "041",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "hearing aids &\northopaedic equipment",
+    "item\ncode": "610",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "nebulizer",
+    "item\ncode": "042",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "other medical\nequipment (blood\npressure monitoring\nmachine, etc.)",
+    "item\ncode": "611",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 57,
+    "table_no": 2,
+    "item": "medical equipment:\nsub-total",
+    "item\ncode": "619",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 1,
+    "Section 14.5: Expenditure for purchase (including repair & maintenance)of cooking &\nother household appliances for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 58,
+    "table_no": 1,
+    "Section 14.5: Expenditure for purchase (including repair & maintenance)of cooking &\nother household appliances for domestic use during the last 365 days": "Q14.5"
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "electric fan",
+    "item\ncode": "580",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "electric air heaters &\nblowers",
+    "item\ncode": "043",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "air conditioner",
+    "item\ncode": "581",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "air cooler",
+    "item\ncode": "044",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "air purifier",
+    "item\ncode": "045",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "refrigerator/freezers",
+    "item\ncode": "588",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "washing machine",
+    "item\ncode": "585",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "inverter, generators,\nstabilizers",
+    "item\ncode": "582",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "geysers & hot water\nsystems, sterilizers",
+    "item\ncode": "046",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "stove, gas burner,\ninduction",
+    "item\ncode": "586",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "water purifier",
+    "item\ncode": "590",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "ventilation system such\nas exhaust, chimney,\netc.",
+    "item\ncode": "047",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "mixer/grinder, juicer,\nfood processor",
+    "item\ncode": "048",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "pressure cooker/\npressure pan",
+    "item\ncode": "587",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "electric iron, heater,\ntoaster, micro-oven,\nelectric kettle, vacuum\ncleaner, & other\nelectric heating\nappliances",
+    "item\ncode": "591",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "sewing machine",
+    "item\ncode": "584",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "lantern, lamp, electric\nlampshade, emergency\nlight",
+    "item\ncode": "583",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "other cooking/\nhousehold appliances",
+    "item\ncode": "592",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 58,
+    "table_no": 2,
+    "item": "cooking & other\nhousehold appliances:\nsub-total",
+    "item\ncode": "599",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 1,
+    "utensils for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 59,
+    "table_no": 1,
+    "utensils for domestic use during the last 365 days": "Q14.6"
+  },
+  {
+    "page_no": 59,
+    "table_no": 1,
+    "utensils for domestic use during the last 365 days": "Section 14.7: Expenditure for purchase and construction of furniture & fixtures for domestic\nuse during the last 365 days"
+  },
+  {
+    "page_no": 59,
+    "table_no": 1,
+    "utensils for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 59,
+    "table_no": 1,
+    "utensils for domestic use during the last 365 days": "Q14.7"
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "stainless steel utensils",
+    "item\ncode": "570",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "other metal utensils\n(non-stick cookware,\netc.)",
+    "item\ncode": "571",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "casseroles, thermos,\nflask, thermoware",
+    "item\ncode": "572",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "water bottle/feeding\nbottle",
+    "item\ncode": "050",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "other crockery & utensils\n(jars & containers,\ncutlery, dinner set, etc.)",
+    "item\ncode": "573",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 2,
+    "item": "crockery & utensils:\nsub-total",
+    "item\ncode": "579",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "bedstead",
+    "item\ncode": "550",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "almirah, dressing table",
+    "item\ncode": "551",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "chair, stool, bench,\ntable",
+    "item\ncode": "552",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "suitcase, trolley bag,\nduffle bag, trunk, etc.",
+    "item\ncode": "553",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "carpet, daree& other\nfloor mattings",
+    "item\ncode": "555",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "paintings, drawings,\nengravings, etc.",
+    "item\ncode": "556",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "other furniture &\nfixtures (couch, sofa,\netc.)",
+    "item\ncode": "557",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 59,
+    "table_no": 3,
+    "item": "furniture & fixtures:\nsub-total",
+    "item\ncode": "559",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction and\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total expenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 1,
+    "for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 60,
+    "table_no": 1,
+    "for domestic use during the last 365 days": "Q14.8"
+  },
+  {
+    "page_no": 60,
+    "table_no": 1,
+    "for domestic use during the last 365 days": "Section 14.9: Expenditure for purchase and construction of residential building, land and other\ndurables for domestic use during the last 365 days"
+  },
+  {
+    "page_no": 60,
+    "table_no": 1,
+    "for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 60,
+    "table_no": 1,
+    "for domestic use during the last 365 days": "Q14.9"
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "television",
+    "item\ncode": "560",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "camera & photographic\nequipment",
+    "item\ncode": "561",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "CD, DVD, pen-drive,\nexternal hard disk",
+    "item\ncode": "562",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "musical instruments",
+    "item\ncode": "563",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "other goods for\nrecreation(incl. radio,\nVCR/VCD/DVD player,\nhome theatre system, play\nstation, etc.)",
+    "item\ncode": "564",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 2,
+    "item": "goods for recreation: sub-\ntotal",
+    "item\ncode": "569",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": "residential building &\nland (cost of minorrepairs\nonly)",
+    "item\ncode": "632",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": "bathroom and sanitary\nequipment",
+    "item\ncode": "630",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": "plugs, switches & other\nelectrical fittings",
+    "item\ncode": "631",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": "other durables",
+    "item\ncode": "633",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 60,
+    "table_no": 3,
+    "item": "residential building,\nland and other\ndurables: sub-total",
+    "item\ncode": "639",
+    "first-hand purchase": null,
+    "cost of\nraw\nmaterial\nand\nservices\nfor\nconstru-\nction\nand\nrepair\n(Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 61,
+    "table_no": 1,
+    "Section 14.10: Expenditure for purchase (including repair & maintenance)of jewellery &\nornaments for domestic use during the last 365 days": "Question\nno."
+  },
+  {
+    "page_no": 61,
+    "table_no": 1,
+    "Section 14.10: Expenditure for purchase (including repair & maintenance)of jewellery &\nornaments for domestic use during the last 365 days": "Q14.10"
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": null,
+    "item\ncode": null,
+    "first-hand purchase": "no. of\nitem\npurch-\nased",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": "no. of\nitem\npurch-\nased",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": "(1)",
+    "item\ncode": "(2)",
+    "first-hand purchase": "(3)",
+    "cost of\nrepair\n&mainten-\nance (Rs.)": "(6)",
+    "second-hand\npurchase": "(7)",
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": "(9)"
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": "gold /diamond\n/platinum jewellery",
+    "item\ncode": "640",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": "silver jewellery",
+    "item\ncode": "641",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": "jewels, pearls, precious\nstones",
+    "item\ncode": "642",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": "otherjewellery and\nornaments (artificial\njewellery, etc.)",
+    "item\ncode": "643",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 61,
+    "table_no": 2,
+    "item": "jewellery &\nornaments: sub-total",
+    "item\ncode": "649",
+    "first-hand purchase": null,
+    "cost of\nrepair\n&mainten-\nance (Rs.)": null,
+    "second-hand\npurchase": null,
+    "total\nexpenditure\n(Rs.)\n(5)+(6)+(8)": null
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "S. No."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": null
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "(1)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "1."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "2."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "3."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "4."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "5."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "6."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "7."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "8."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "9."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "10."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "11."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "12."
+  },
+  {
+    "page_no": 62,
+    "table_no": 1,
+    "Section C1 : Summary information of item collected in Questionnaire - DGQ": "13."
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.2",
+    "Mobile number of the informant": "Alternate mobile number, if any"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.3",
+    "Mobile number of the informant": "Landline number of the household"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": null,
+    "Mobile number of the informant": "(Same instruction is to be followed as mentioned in Questionnaire HCQ)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.4",
+    "Mobile number of the informant": "Time taken to canvass the Questionnaire - DGQ\n(in minutes)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.5",
+    "Mobile number of the informant": "Household’s usual consumption expenditure in a month (in Rs.)\n(to be used only for cross validation of the data)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.6",
+    "Mobile number of the informant": "Total expenditure incurred on online purchase/payment of durable\ngoods during the last 365 days (in Rs.)"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.7",
+    "Mobile number of the informant": "Name of the informant\n(Instruction: A pop-up with the details of household members as listed in Block 3/3A, Cols.1 & 2 will\nappear along with an option ‘not a household member’. ‘Srl. no .99 will be provided against non-\nhousehold member’, if he/she is the respondent. The enumerator should select the ‘informant’ from that\nlist)\nSrl. no. of the household Name Select the informant\nmember\no\no\n99 not a household member o"
+  },
+  {
+    "page_no": 62,
+    "table_no": 2,
+    "QC2.1": "QC2.8",
+    "Mobile number of the informant": "Response code of the informant as assessed by SE/JSO"
+  },
+  {
+    "page_no": 62,
+    "table_no": 3,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 62,
+    "table_no": 3,
+    "Srl. no. of the household\nmember": null,
+    "Name": null,
+    "Select the informant": "o"
+  },
+  {
+    "page_no": 62,
+    "table_no": 3,
+    "Srl. no. of the household\nmember": "99",
+    "Name": "not a household member",
+    "Select the informant": "o"
+  }
+]
