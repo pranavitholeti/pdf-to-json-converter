@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF to JSON Converter using Python</title>
+
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #0f172a;
+            --bg: #f8fafc;
+            --card: #ffffff;
+            --text: #1e293b;
+            --muted: #64748b;
+            --border: #e2e8f0;
+            --code-bg: #0f172a;
+            --code-text: #e5e7eb;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Roboto, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: var(--card);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.4rem;
+            color: var(--secondary);
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: var(--muted);
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            margin-top: 40px;
+            color: var(--primary);
+            border-left: 5px solid var(--primary);
+            padding-left: 12px;
+        }
+
+        h3 {
+            margin-top: 25px;
+            color: var(--secondary);
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        ul, ol {
+            margin-left: 25px;
+        }
+
+        li {
+            margin: 6px 0;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--border);
+            margin: 35px 0;
+        }
+
+        pre {
+            background: var(--code-bg);
+            color: var(--code-text);
+            padding: 18px;
+            border-radius: 10px;
+            overflow-x: auto;
+            font-size: 0.95rem;
+        }
+
+        code {
+            font-family: Consolas, Monaco, monospace;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #e0e7ff;
+            color: #1e40af;
+            padding: 4px 10px;
+            border-radius: 999px;
+            font-size: 0.85rem;
+            margin-right: 6px;
+        }
+
+        .output-box {
+            background: #f1f5f9;
+            border-left: 4px solid var(--primary);
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 20px;
+                padding: 25px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📄 PDF to JSON Converter using Python</h1>
+    <p class="subtitle">Convert tabular data from PDF files into structured JSON format</p>
+
+    <hr>
+
+    <h2>🎯 Objective</h2>
+    <p>
+        The objective of this project is to extract tabular data from a PDF document
+        and convert it into structured JSON format using Python.
+    </p>
+
+    <hr>
+
+    <h2>🛠️ Technologies Used</h2>
+    <span class="tag">Python 3</span>
+    <span class="tag">pdfplumber</span>
+    <span class="tag">JSON</span>
+
+    <hr>
+
+    <h2>📁 Project Structure</h2>
+    <pre><code>
+pdf-to-json-converter/
+├── input/
+│   └── sample.pdf
+├── output/
+│   ├── output.json
+│   └── clean_output.json
+├── pdf_data_to_json.py
+├── clean_json.py
+├── requirements.txt
+└── README.html
+    </code></pre>
+
+    <hr>
+
+    <h2>⚙️ How It Works</h2>
+    <ol>
+        <li>The PDF file is opened using <strong>pdfplumber</strong>.</li>
+        <li>Each page is scanned to detect tables.</li>
+        <li>Table headers are mapped to corresponding row values.</li>
+        <li>Extracted data is stored in <strong>JSON</strong> format.</li>
+    </ol>
+
+    <hr>
+
+    <h2>▶️ How to Run</h2>
+
+    <h3>1️⃣ Install required dependencies</h3>
+    <pre><code>pip install -r requirements.txt</code></pre>
+
+    <h3>2️⃣ Convert PDF tables to raw JSON</h3>
+    <pre><code>python pdf_data_to_json.py</code></pre>
+
+    <h3>3️⃣ Clean the JSON output (optional)</h3>
+    <pre><code>python clean_json.py</code></pre>
+
+    <hr>
+
+    <h2>📄 Output Files</h2>
+
+    <div class="output-box">
+        <strong>output/output.json</strong>
+        <ul>
+            <li>Raw JSON extracted directly from PDF tables</li>
+            <li>Includes page number, table number, and all extracted fields</li>
+        </ul>
+    </div>
+
+    <div class="output-box">
+        <strong>output/clean_output.json</strong>
+        <ul>
+            <li>Removed null values</li>
+            <li>Removed page_no and table_no</li>
+            <li>Cleaned multiline text</li>
+        </ul>
+    </div>
+
+    <hr>
+
+    <h2>✅ Result</h2>
+    <p>
+        The program successfully converts complex PDF tables into structured
+        and usable JSON format.
+    </p>
+
+    <hr>
+
+    <h2>🚀 Future Enhancements</h2>
+    <ul>
+        <li>OCR support for scanned PDFs</li>
+        <li>Export JSON to Excel</li>
+        <li>Database integration</li>
+        <li>GUI interface</li>
+    </ul>
+
+    <footer>
+        <p>👤 Author: Your Name</p>
+        <p>© PDF to JSON Converter Project</p>
+    </footer>
+
+</div>
+
+</body>
+</html>
