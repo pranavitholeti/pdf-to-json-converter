@@ -33,14 +33,14 @@ The generated JSON can be easily used for data analysis, storage, or further pro
 
 ## ▶️ HOW TO RUN THE PROJECT ?
 
-## 1️⃣ Install required dependencies
+### 1️⃣ Install required dependencies
 
 pip install -r requirements.txt
 
-## 2️⃣ Convert pdf tables to raw JSON
+### 2️⃣ Convert pdf tables to raw JSON
 python pdf_data_to_json.py
 
-## 3️⃣ Clean the JSON output
+### 3️⃣ Clean the JSON output
 python clean_json.py
 
 ---
