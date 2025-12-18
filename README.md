@@ -1,14 +1,18 @@
-# PDF to JSON Converter using Python
+# 📄 PDF to JSON Converter using Python
 
-## 📌 Objective
-The objective of this project is to extract tabular data from a PDF document and convert it into structured JSON format using Python.
+Convert tabular data from PDF files into structured JSON format using Python.
+
+---
+
+## 🎯 Objective
+To extract tabular data from a PDF document and convert it into structured JSON format.
 
 ---
 
 ## 🛠️ Technologies Used
-- Python 3
-- pdfplumber
-- JSON
+- **Python 3**
+- **pdfplumber**
+- **JSON**
 
 ---
 
@@ -25,15 +29,4 @@ pdf-to-json-converter/
 ├── clean_json.py
 ├── requirements.txt
 └── README.md
-
-## ▶️ How to Run
-# Install required dependencies
-pip install -r requirements.txt
-
-# Convert PDF tables to raw JSON
-python pdf_data_to_json.py
-
-# (Optional) Clean the JSON output
-python clean_json.py
-
 
