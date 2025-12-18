@@ -60,6 +60,26 @@ python clean_json.py
 
 ---
 
+## 📸 Screenshots
+
+### Project Folder Structure
+![Project Structure](screenshots/project_structure.png)
+
+
+### Command Prompt – PDF to JSON
+![CMD Output PDF to JSON](screenshots/cmd_output.png)
+
+### Raw JSON Output
+![Raw JSON Output](screenshots/output_json.png)
+
+### Command Prompt – Clean JSON
+![CMD Output Clean JSON](screenshots/cmd_clean_json_output.png)
+
+### Clean JSON Output
+![Clean JSON Output](screenshots/clean_output_json.png)
+
+---
+
 ## 📄OUTPUT
 
 ### output/output.json
