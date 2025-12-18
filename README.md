@@ -4,19 +4,24 @@ A Python project to extract tabular data from PDF files and convert it into stru
 
 ---
 
-## 🧠 Documentation Flow
-**WHAT → HOW → RUN → OUTPUT → RESULT**
-
----
-
-## ✅ WHAT (What does this project do?)
+## ✅OBJECTIVE
 
 This project reads a PDF file containing tables and converts the tabular data into JSON format.  
 The generated JSON can be easily used for data analysis, storage, or further processing.
 
 ---
 
-## ⚙️ HOW (How does it work?)
+## 🛠️ Technologies Used
+
+### 1. Python 3
+
+### 2. pdfplumber
+
+### 3. JSON
+
+---
+
+## ⚙️ HOW DOES IT WORK ?
 
 1. The PDF file is opened using the **pdfplumber** library.
 2. Each page of the PDF is scanned to detect tables.
@@ -26,8 +31,43 @@ The generated JSON can be easily used for data analysis, storage, or further pro
 
 ---
 
-## ▶️ RUN (How to run the project?)
+## ▶️ HOW TO RUN THE PROJECT ?
 
-### 1️⃣ Install required dependencies
-```bash
+## 1️⃣ Install required dependencies
+
 pip install -r requirements.txt
+
+## 2️⃣ Convert pdf tables to raw JSON
+python pdf_data_to_json.py
+
+## 3️⃣ Clean the JSON output
+python clean_json.py
+
+---
+
+## 📄OUTPUT
+
+## output/output.json
+
+Raw JSON extracted directly from PDF tables
+
+Includes page number, table number, and extracted fields
+
+## output/clean_output.json
+
+Cleaned JSON with:
+
+Removed null values
+
+Removed page_no and table_no
+
+Cleaned multiline text
+
+---
+
+## ✅ RESULT 
+
+The project successfully converts complex, multi-page PDF tables into structured and readable JSON format, making the data suitable for further use.
+
+
+
