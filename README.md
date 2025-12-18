@@ -26,7 +26,7 @@ pdf-to-json-converter/
 ├── requirements.txt
 └── README.md
 
-▶️ How to Run
+## ▶️ How to Run
 # Install required dependencies
 pip install -r requirements.txt
 
