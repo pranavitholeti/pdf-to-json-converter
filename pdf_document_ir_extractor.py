@@ -3,241 +3,184 @@ import json
 import os
 import re
 
-PDF_PATH = "input/sample.pdf"
-OUTPUT_FILE = "output/document_ir.json"
-os.makedirs("output", exist_ok=True)
+PDF_PATH = "sample.pdf"
+OUTPUT_FILE = "hces_canonical_output.json"
 
-def detect_section(text):
-    m = re.search(r"(section|block)\s+\d+(\.\d+)?", text.lower())
-    return m.group(0) if m else None
-
-
-def is_instruction(text):
-    keywords = [
-        "go to", "skip", "if yes", "if no",
-        "only for", "applicable", "note",
-        "to be filled", "otherwise"
-    ]
-    return any(k in text.lower() for k in keywords)
-
-
-def extract_cross_refs(text):
-    refs = re.findall(r"(section\s+\d+(\.\d+)?|item\s+\d+(\.\d+)?)", text.lower())
-    return [r[0] for r in refs] if refs else None
-
-
-def extract_units(text):
-    units = []
-    for u in ["kg", "gm", "litre", "rupees", "₹", "days", "months", "number"]:
-        if u in text.lower():
-            units.append(u)
-    return units
-
-
-def extract_question_number(text):
-    m = re.search(r"\bQ?\d+\.\d+\b", text)
-    return m.group(0) if m else None
-
-
-def extract_reference_period(text):
-    m = re.search(r"(\d+)\s*(day|days|month|months)", text.lower())
-    if m:
-        return {"value": int(m.group(1)), "unit": m.group(2)}
-    return None
-
-
-def extract_applicability(text):
-    app = []
-    if "rural only" in text.lower():
-        app.append("rural")
-    if "urban only" in text.lower():
-        app.append("urban")
-    return app if app else None
-
-
-def interpret_checkbox(value):
-    if value is None:
+def normalize_checkboxes(rows, section_id):
+    if section_id not in ["4.1.2", "4.1.3"]:
         return None
-    v = value.strip().lower()
-    if v in ["x", "✓", "✔", "yes"]:
-        return True
-    if v in ["", "no"]:
-        return False
-    return None
+
+    items = []
+    for row in rows:
+        if len(row) >= 3 and row[1]:
+            status = any(mark in str(row[2]) for mark in ["X", "1", "✔"])
+            items.append({
+                "item": row[1].strip(),
+                "selected": status
+            })
+    return items
 
 
-def extract_hierarchical_headers(table):
+def extract_semantic_metadata(text):
+    return {
+        "question_no": re.search(r"Q?\d+\.\d+", text).group(0)
+        if re.search(r"Q?\d+\.\d+", text) else None,
+        "reference_period_days": (
+            30 if "30 days" in text.lower()
+            else 7 if "7 days" in text.lower()
+            else None
+        ),
+        "units": re.findall(r"(kg|gm|litre|rupees|number)", text.lower()),
+        "logic_indicators": [
+            k for k in ["skip", "go to", "if yes", "applicable"]
+            if k in text.lower()
+        ]
+    }
+
+
+def resolve_header_hierarchy(table_rows):
     header_rows = []
-    for row in table:
-        if any(cell and any(c.isdigit() for c in cell) for cell in row):
+    data_start_idx = 0
+
+    for i, row in enumerate(table_rows):
+        if any(
+            cell and re.search(r"(Q?\d+(\.\d+)?|item\s*no)", str(cell), re.I)
+            for cell in row
+        ):
+            data_start_idx = i
             break
         header_rows.append(row)
 
     if not header_rows:
         return [], 0
 
-    cols = max(len(r) for r in header_rows)
-    paths = [[] for _ in range(cols)]
+    col_count = max(len(r) for r in header_rows)
+    paths = [[] for _ in range(col_count)]
 
     for row in header_rows:
-        last = None
-        for i in range(cols):
-            cell = row[i] if i < len(row) else None
+        last_val = None
+        for i in range(col_count):
+            cell = row[i].strip() if (i < len(row) and row[i]) else None
             if cell:
-                last = cell.strip()
-                paths[i].append(last)
-            elif last:
-                paths[i].append(last)
+                last_val = cell
+            if last_val:
+                paths[i].append(last_val)
 
-    clean = []
+    columns = []
     for p in paths:
-        out = []
+        clean = []
         for x in p:
-            if not out or out[-1] != x:
-                out.append(x)
-        clean.append(out)
+            if not clean or clean[-1] != x:
+                clean.append(x)
+        columns.append({
+            "id": ".".join(clean).lower().replace(" ", "_"),
+            "hierarchy": clean
+        })
 
-    return clean, len(header_rows)
+    return columns, data_start_idx
 
 
-def build_provenance(page, bbox=None, method="pdfplumber"):
-    return {
-        "page": page,
-        "bbox": bbox,
-        "extraction_method": method,
-        "confidence": None
+def build_cross_table_links(document_ir):
+    links = []
+    if "3" in document_ir["sections"] and "2" in document_ir["sections"]:
+        links.append({
+            "source": "Section 3 (Members)",
+            "target": "Section 2 (Household Size)",
+            "rule": "Number of member rows should match household size"
+        })
+    return links
+
+
+def process_hces_pdf(path):
+    document_ir = {
+        "metadata": {
+            "document_type": "LCES / HCQ / FDQ Survey",
+            "year": "2023–24",
+            "representation": "canonical_multi_layer_model",
+            "limitations": [
+                "No vision-based layout models",
+                "Heuristic section detection",
+                "No automatic questionnaire reconstruction"
+            ]
+        },
+        "sections": {},
+        "relationships": [],
+        "diagnostics": {
+            "merged_cells_detected": 0
+        }
     }
 
-diagnostics = {
-    "pages_with_no_tables": [],
-    "tables_with_header_mismatch": []
-}
+    with pdfplumber.open(path) as pdf:
+        current_section_id = "0"
 
-document_ir = {
-    "document_type": "LCES Questionnaire",
-    "representation": "document-aware intermediate representation",
-    "pages": [],
-    "diagnostics": diagnostics
-}
+        for page_index, page in enumerate(pdf.pages, start=1):
+            page_text = page.extract_text() or ""
 
-prev_header_signature = None
+            section_match = re.search(
+                r"SECTION\s*\[?(\d+(\.\d+)?)\]?",
+                page_text,
+                re.I
+            )
+            if section_match:
+                current_section_id = section_match.group(1)
 
-
-with pdfplumber.open(PDF_PATH) as pdf:
-
-    current_section = None
-
-    for page_no, page in enumerate(pdf.pages, start=1):
-
-        page_text = page.extract_text() or ""
-
-        sec = detect_section(page_text)
-        if sec:
-            current_section = sec
-
-        page_obj = {
-            "page_number": page_no,
-            "section": current_section,
-            "content": []
-        }
-
-       
-        for line in page_text.split("\n"):
-            if is_instruction(line):
-                page_obj["content"].append({
-                    "type": "instruction",
-                    "text": line.strip(),
-                    "units": extract_units(line),
-                    "cross_references": extract_cross_refs(line),
-                    "provenance": build_provenance(
-                        page_no,
-                        method="pdfplumber.extract_text"
-                    )
-                })
-
-
-        tables = page.find_tables()
-        if not tables:
-            diagnostics["pages_with_no_tables"].append(page_no)
-
-        for t_index, t in enumerate(tables, start=1):
-            raw = t.extract()
-            bbox = t.bbox
-
-            headers, h_rows = extract_hierarchical_headers(raw)
-            signature = tuple(tuple(h) for h in headers)
-
-            is_continuation = signature == prev_header_signature
-            prev_header_signature = signature
-
-            columns = []
-            for h in headers:
-                columns.append({
-                    "hierarchy": h,
-                    "semantic_key": ".".join(
-                        x.lower().replace(" ", "_") for x in h
-                    ),
-                    "units": extract_units(" ".join(h))
-                })
-
-            context_text = " ".join(" ".join(h) for h in headers)
-            question_meta = {
-                "question_number": extract_question_number(context_text),
-                "reference_period": extract_reference_period(context_text),
-                "applicability": extract_applicability(context_text)
-            }
-
-            table_obj = {
-                "type": "table",
-                "table_id": f"{current_section}_P{page_no}_T{t_index}",
-                "is_continuation": is_continuation,
-                "question_metadata": question_meta,
-                "columns": columns,
-                "rows": [],
-                "provenance": build_provenance(
-                    page_no,
-                    bbox=bbox,
-                    method="pdfplumber.find_tables"
-                )
-            }
-
-            expected_cols = len(columns)
-
-            for row in raw[h_rows:]:
-                if len(row) != expected_cols:
-                    diagnostics["tables_with_header_mismatch"].append({
-                        "page": page_no,
-                        "table": t_index,
-                        "expected_cols": expected_cols,
-                        "actual_cols": len(row)
-                    })
-
-                row_obj = {
-                    "cells": [],
-                    "warnings": []
+            if current_section_id not in document_ir["sections"]:
+                document_ir["sections"][current_section_id] = {
+                    "page": page_index,
+                    "blocks": []
                 }
 
-                for cell in row:
-                    checkbox = interpret_checkbox(cell)
-                    if cell is None:
-                        row_obj["cells"].append(None)
-                        row_obj["warnings"].append("merged_or_missing_cell")
-                    elif checkbox is not None:
-                        row_obj["cells"].append({
-                            "raw": cell,
-                            "checkbox": checkbox
-                        })
-                    else:
-                        row_obj["cells"].append(cell.strip())
+            for line in page_text.split("\n"):
+                semantics = extract_semantic_metadata(line)
+                if semantics["logic_indicators"] or semantics["question_no"]:
+                    document_ir["sections"][current_section_id]["blocks"].append({
+                        "type": "instruction_or_metadata",
+                        "text": line.strip(),
+                        "semantics": semantics,
+                        "provenance": {
+                            "page": page_index,
+                            "method": "pdfplumber.extract_text"
+                        }
+                    })
 
-                table_obj["rows"].append(row_obj)
+            for table in page.find_tables():
+                raw = table.extract()
+                if not raw:
+                    continue
 
-            page_obj["content"].append(table_obj)
+                columns, data_idx = resolve_header_hierarchy(raw)
+                checkbox_group = normalize_checkboxes(
+                    raw[data_idx:], current_section_id
+                )
 
-        document_ir["pages"].append(page_obj)
+                block = {
+                    "type": "checkbox_group" if checkbox_group else "data_table",
+                    "bbox": table.bbox,
+                    "columns": None if checkbox_group else columns,
+                    "data": []
+                }
+
+                if checkbox_group:
+                    block["data"] = checkbox_group
+                else:
+                    for row in raw[data_idx:]:
+                        row_obj = {}
+                        for i, cell in enumerate(row):
+                            if cell is None:
+                                document_ir["diagnostics"]["merged_cells_detected"] += 1
+                                row_obj[columns[i]["id"]] = None
+                            elif i < len(columns):
+                                row_obj[columns[i]["id"]] = cell.strip()
+                        block["data"].append(row_obj)
+
+                document_ir["sections"][current_section_id]["blocks"].append(block)
+
+    document_ir["relationships"] = build_cross_table_links(document_ir)
+    return document_ir
 
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(document_ir, f, indent=2, ensure_ascii=False)
-
-print("DONE — document-aware intermediate representation created")
+if __name__ == "__main__":
+    canonical_json = process_hces_pdf(PDF_PATH)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(canonical_json, f, indent=2, ensure_ascii=False)
+    print("DONE — Canonical JSON generated successfully.")
