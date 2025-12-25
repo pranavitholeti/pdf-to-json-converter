@@ -3,7 +3,7 @@ import json
 import re
 
 PDF_PATH = "input/sample.pdf"
-OUTPUT_FILE = "hces_canonical_output.json"
+OUTPUT_FILE = "output/hces_canonical_output.json"
 
 
 def normalize_checkboxes(rows, section_id):
@@ -191,3 +191,4 @@ if __name__ == "__main__":
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(canonical_json, f, indent=2, ensure_ascii=False)
     print("DONE — Canonical JSON generated successfully.")
+
