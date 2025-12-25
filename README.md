@@ -97,7 +97,7 @@ This structure makes it easier to understand the original questionnaire without 
 
 ---
 
-### 🛠 Handling Common PDF Extraction Issues
+## 🛠 Handling Common PDF Extraction Issues
 
 1. This project handles several common PDF extraction challenges:
 
@@ -113,7 +113,7 @@ The approach avoids silently incorrect mappings
 
 ---
 
-### ⚠ Limitations
+## ⚠ Limitations
 
 1. Vision-based layout models are not used
 
@@ -125,7 +125,7 @@ These limitations are documented to keep the extraction safe and transparent.
 
 ---
 
-### 📝 Conclusion
+## 📝 Conclusion
 
 This project demonstrates a practical approach to extracting structured data from complex PDFs. The focus is on correctness and clarity rather than full automation. The generated JSON can be used as a reliable intermediate format for further analysis or processing.
 
