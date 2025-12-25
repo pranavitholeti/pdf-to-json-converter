@@ -1,10 +1,10 @@
 import pdfplumber
 import json
-import os
 import re
 
-PDF_PATH = "sample.pdf"
+PDF_PATH = "input/sample.pdf"
 OUTPUT_FILE = "hces_canonical_output.json"
+
 
 def normalize_checkboxes(rows, section_id):
     if section_id not in ["4.1.2", "4.1.3"]:
@@ -165,12 +165,19 @@ def process_hces_pdf(path):
                 else:
                     for row in raw[data_idx:]:
                         row_obj = {}
+
                         for i, cell in enumerate(row):
+                            if i < len(columns):
+                                key = columns[i]["id"]
+                            else:
+                                key = f"extra_column_{i}"
+
                             if cell is None:
                                 document_ir["diagnostics"]["merged_cells_detected"] += 1
-                                row_obj[columns[i]["id"]] = None
-                            elif i < len(columns):
-                                row_obj[columns[i]["id"]] = cell.strip()
+                                row_obj[key] = None
+                            else:
+                                row_obj[key] = cell.strip()
+
                         block["data"].append(row_obj)
 
                 document_ir["sections"][current_section_id]["blocks"].append(block)
