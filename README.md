@@ -1,13 +1,23 @@
 # 📄 PDF to JSON Converter using Python
 
-A Python project to extract tabular data from PDF files and convert it into structured JSON format.
+This project focuses on extracting information from a  PDF and converting it into a structured JSON format.
+While working with the PDF, it was observed that directly converting tables into rows causes several issues such as data loss, incorrect column mapping, and missing instructions. To avoid these problems, this project generates a document-aware intermediate JSON representation that preserves the structure and logic of the original PDF.
 
 ---
 
 ## ➥ OBJECTIVE
 
-This project reads a PDF file containing tables and converts the tabular data into JSON format.  
-The generated JSON can be easily used for data analysis, storage, or further processing.
+The objective of this project is to:
+
+1. Extract tabular and non-tabular data from a PDF file
+
+2. Preserve section context and question numbers
+
+3. Capture instructions
+
+4. Avoid silent data corruption caused by merged or missing cells
+
+The final JSON output is designed to be reliable and suitable for further processing or validation.
 
 ---
 
@@ -29,20 +39,24 @@ pdf-to-json-converter/
 │   └── sample.pdf
 ├── output/
 │   ├── output.json
-│   └── clean_output.json
-├── pdf_data_to_json.py
-├── clean_json.py
+├── pdf_document_ir_extractor.py
 ├── requirements.txt
 └── README.md
 
 ```
 ## ⚙️ HOW DOES IT WORK ?
 
-1. The PDF file is opened using the **pdfplumber** library.
-2. Each page of the PDF is scanned to detect tables.
-3. Table headers are mapped to their corresponding row values.
-4. Extracted data is stored in structured **JSON** format.
-5. An optional cleaning script removes null values and unwanted fields.
+1.The PDF is scanned page by page to identify sections and preserve questionnaire context.
+
+2. Instructional text such as skip rules and conditions is extracted separately as metadata.
+
+3. Tables are processed conservatively to handle multi-row headers and merged cells without data loss.
+
+4. Checkbox-based tables are converted into clear boolean values (true / false).
+
+5. Known relationships between sections are explicitly recorded.
+
+6. Diagnostic details like page numbers and merged cell counts are stored for validation.
 
 ---
 
@@ -52,31 +66,12 @@ pdf-to-json-converter/
 
 pip install -r requirements.txt
 
-### 2️⃣ Convert pdf tables to raw JSON
-python pdf_data_to_json.py
+### 2️⃣ Add the PDF File
+Place the PDF file in the same directory as the script and name it:
+sample.pdf
 
-### 3️⃣ Clean the JSON output
-python clean_json.py
-
----
-
-## 📸 Screenshots
-
-### Project Folder Structure
-![Project Structure](screenshots/project_structure.png)
-
-
-### Command Prompt – PDF to JSON
-![CMD Output PDF to JSON](screenshots/cmd_output.png)
-
-### Raw JSON Output
-![Raw JSON Output](screenshots/output_json.png)
-
-### Command Prompt – Clean JSON
-![CMD Output Clean JSON](screenshots/cmd_clean_json_output.png)
-
-### Clean JSON Output
-![Clean JSON Output](screenshots/clean_output_json.png)
+### 3️⃣ Run the script
+python  pdf_document_ir_extractor.py
 
 ---
 
@@ -84,25 +79,55 @@ python clean_json.py
 
 ### output/output.json
 
-Raw JSON extracted directly from PDF tables
+The output JSON contains:
 
-Includes page number, table number, and extracted fields
+1. Document metadata
 
-### output/clean_output.json
+2. Section-wise grouped content
 
-Cleaned JSON with:
+3. Instruction blocks
 
-Removed null values
+4. Table data with preserved headers
 
-Removed page_no and table_no
+5. Explicit relationships between sections
 
-Cleaned multiline text
+6. Diagnostic information
+
+This structure makes it easier to understand the original questionnaire without referring back to the PDF.
 
 ---
 
-## 🎯 RESULT 
+### 🛠 Handling Common PDF Extraction Issues
 
-The project successfully converts complex, multi-page PDF tables into structured and readable JSON format, making the data suitable for further use.
+1. This project handles several common PDF extraction challenges:
+
+2. Repeated headers across pages
+
+3. Multi-row and merged table headers
+
+4. Checkbox-based questions
+
+5. Instructions mixed with tabular data
+
+The approach avoids silently incorrect mappings
+
+---
+
+### ⚠ Limitations
+
+1. Vision-based layout models are not used
+
+2. Section detection is heuristic
+
+3. Full automatic questionnaire reconstruction is not attempted
+
+These limitations are documented to keep the extraction safe and transparent.
+
+---
+
+### 📝 Conclusion
+
+This project demonstrates a practical approach to extracting structured data from complex PDFs. The focus is on correctness and clarity rather than full automation. The generated JSON can be used as a reliable intermediate format for further analysis or processing.
 
 
 
